@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="host">
+				<Option output=".host\test" prefix_auto="1" extension_auto="1" />
+				<Option object_output=".host" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\include" />
+					<Add directory="C:\Program Files\GPH_SDK\include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lDGE" />
+					<Add option="-lopengl32" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
+					<Add option="-lSDL_image.dll" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\lib" />
+				</Linker>
+			</Target>
+			<Target title="target">
+				<Option output=".target\test.gpe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir=".target" />
+				<Option object_output=".target" />
+				<Option type="1" />
+				<Option compiler="armelfgcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\include" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\include\SDL" />
+					<Add directory="C:\Program Files\GPH_SDK\include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lDGE" />
+					<Add option="-lopengles_lite" />
+					<Add option="-lglport" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
+					<Add option="-lSDL_image" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+					<Add option="-lpng" />
+					<Add option="-lz" />
+					<Add option="-lpthread" />
+					<Add option="-lts" />
+					<Add option="-lsmpeg" />
+					<Add option="-lfreetype" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\lib\target" />
+					<Add directory="C:\Program Files\GPH_SDK\lib\target" />
+				</Linker>
+			</Target>
+			<Target title="library">
+				<Option output=".target\wizEngine.a" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="" />
+				<Option object_output=".target" />
+				<Option type="2" />
+				<Option compiler="armelfgcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\include" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\include\SDL" />
+					<Add directory="C:\Program Files\GPH_SDK\include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lDGE" />
+					<Add option="-lopengles_lite" />
+					<Add option="-lglport" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
+					<Add option="-lSDL_image" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+					<Add option="-lpng" />
+					<Add option="-lz" />
+					<Add option="-lpthread" />
+					<Add option="-lts" />
+					<Add option="-lsmpeg" />
+					<Add option="-lfreetype" />
+					<Add directory="C:\Program Files\GPH_SDK\DGE\lib\target" />
+					<Add directory="C:\Program Files\GPH_SDK\lib\target" />
+				</Linker>
+			</Target>
+			<Target title="caanoo">
+				<Option output=".caanoo\test.gpe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir=".caanoo" />
+				<Option object_output=".caanoo" />
+				<Option type="1" />
+				<Option compiler="gnu_arm_gcc_compiler_caanoo" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-Wall" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\gcc-4.2.4-glibc-2.7-eabi\include" />
+					<Add directory="include" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\include" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\gcc-4.2.4-glibc-2.7-eabi\arm-gph-linux-gnueabi\include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lDGE" />
+					<Add option="-lopengles_lite" />
+					<Add option="-lglport" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
+					<Add option="-lSDL_image" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+					<Add option="-lpng" />
+					<Add option="-lz" />
+					<Add option="-lpthread" />
+					<Add option="-lts" />
+					<Add option="-lsmpeg" />
+					<Add option="-lfreetype" />
+					<Add directory="C:\Program Files\GPH_SDK\caanoo\gcc-4.2.4-glibc-2.7-eabi\lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="include\wizBattery.h" />
+		<Unit filename="include\wizBlob.h" />
+		<Unit filename="include\wizBlobShadowRenderer.h" />
+		<Unit filename="include\wizBoundingBox.h" />
+		<Unit filename="include\wizBoundingVolume.h" />
+		<Unit filename="include\wizCamera.h" />
+		<Unit filename="include\wizCamera2D.h" />
+		<Unit filename="include\wizCamera3D.h" />
+		<Unit filename="include\wizCanvas.h" />
+		<Unit filename="include\wizColour.h" />
+		<Unit filename="include\wizConfig.h" />
+		<Unit filename="include\wizFadeChain.h" />
+		<Unit filename="include\wizFadeEffect.h" />
+		<Unit filename="include\wizFadeToEffect.h" />
+		<Unit filename="include\wizFadeWipeEffect.h" />
+		<Unit filename="include\wizFolder.h" />
+		<Unit filename="include\wizFont.h" />
+		<Unit filename="include\wizFontManager.h" />
+		<Unit filename="include\wizFrustum.h" />
+		<Unit filename="include\wizGame.h" />
+		<Unit filename="include\wizGameEntity.h" />
+		<Unit filename="include\wizGestureManager.h" />
+		<Unit filename="include\wizGestureObject.h" />
+		<Unit filename="include\wizInputManager.h" />
+		<Unit filename="include\wizIntersectionPoint.h" />
+		<Unit filename="include\wizLight.h" />
+		<Unit filename="include\wizLightManager.h" />
+		<Unit filename="include\wizListUtility.h" />
+		<Unit filename="include\wizMaterial.h" />
+		<Unit filename="include\wizMaterialManager.h" />
+		<Unit filename="include\wizMaterialStage.h" />
+		<Unit filename="include\wizMatrix.h" />
+		<Unit filename="include\wizMenu.h" />
+		<Unit filename="include\wizMenuItem.h" />
+		<Unit filename="include\wizMenuItemIcon.h" />
+		<Unit filename="include\wizMenuItemIrregularIcon.h" />
+		<Unit filename="include\wizMenuItemText.h" />
+		<Unit filename="include\wizMenuRadial.h" />
+		<Unit filename="include\wizMenuSimple.h" />
+		<Unit filename="include\wizMenuSlide.h" />
+		<Unit filename="include\wizMesh.h" />
+		<Unit filename="include\wizMeshAnimation.h" />
+		<Unit filename="include\wizMeshEntity.h" />
+		<Unit filename="include\wizMeshFrame.h" />
+		<Unit filename="include\wizMeshManager.h" />
+		<Unit filename="include\wizMeshRenderer.h" />
+		<Unit filename="include\wizParticle.h" />
+		<Unit filename="include\wizParticle2D.h" />
+		<Unit filename="include\wizParticle3D.h" />
+		<Unit filename="include\wizParticleEmitter.h" />
+		<Unit filename="include\wizParticleSystem.h" />
+		<Unit filename="include\wizParticleSystem2D.h" />
+		<Unit filename="include\wizParticleSystem3D.h" />
+		<Unit filename="include\wizPhysicsBody.h" />
+		<Unit filename="include\wizPhysicsController.h" />
+		<Unit filename="include\wizPhysicsHingeJoint.h" />
+		<Unit filename="include\wizPhysicsJoint.h" />
+		<Unit filename="include\wizPhysicsSliderJoint.h" />
+		<Unit filename="include\wizPhysicsSpringJoint.h" />
+		<Unit filename="include\wizPlane.h" />
+		<Unit filename="include\wizPointLight.h" />
+		<Unit filename="include\wizPrimitives.h" />
+		<Unit filename="include\wizProgress.h" />
+		<Unit filename="include\wizProgressBar.h" />
+		<Unit filename="include\wizProjectedShadowRenderer.h" />
+		<Unit filename="include\wizRay.h" />
+		<Unit filename="include\wizRecording.h" />
+		<Unit filename="include\wizRenderer.h" />
+		<Unit filename="include\wizScalableHUD.h" />
+		<Unit filename="include\wizScene.h" />
+		<Unit filename="include\wizSceneManager.h" />
+		<Unit filename="include\wizSceneManagerBVH.h" />
+		<Unit filename="include\wizSceneManagerLayered.h" />
+		<Unit filename="include\wizSceneManagerNode.h" />
+		<Unit filename="include\wizSceneManagerOctree.h" />
+		<Unit filename="include\wizSceneManagerQuadTree.h" />
+		<Unit filename="include\wizSoundController.h" />
+		<Unit filename="include\wizSoundController2D.h" />
+		<Unit filename="include\wizSoundController3D.h" />
+		<Unit filename="include\wizSoundManager.h" />
+		<Unit filename="include\wizSpotLight.h" />
+		<Unit filename="include\wizSprite.h" />
+		<Unit filename="include\wizSpriteAnimation.h" />
+		<Unit filename="include\wizSpriteEntity.h" />
+		<Unit filename="include\wizSpriteFrame.h" />
+		<Unit filename="include\wizSpriteRenderer.h" />
+		<Unit filename="include\wizSpriteSheet.h" />
+		<Unit filename="include\wizSpriteSheetManager.h" />
+		<Unit filename="include\wizState.h" />
+		<Unit filename="include\wizStateGroup.h" />
+		<Unit filename="include\wizStateManager.h" />
+		<Unit filename="include\wizTextureManager.h" />
+		<Unit filename="include\wizTriangle.h" />
+		<Unit filename="include\wizUIButton.h" />
+		<Unit filename="include\wizUIButtonEvent.h" />
+		<Unit filename="include\wizUICheckBox.h" />
+		<Unit filename="include\wizUIComponent.h" />
+		<Unit filename="include\wizUIEvent.h" />
+		<Unit filename="include\wizUIPanel.h" />
+		<Unit filename="include\wizUISlider.h" />
+		<Unit filename="include\wizUITouchDragEvent.h" />
+		<Unit filename="include\wizUITouchEvent.h" />
+		<Unit filename="include\wizUtility.h" />
+		<Unit filename="include\wizVector2.h" />
+		<Unit filename="include\wizVector3.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src\wizBattery.cpp" />
+		<Unit filename="src\wizBlob.cpp" />
+		<Unit filename="src\wizBlobShadowRenderer.cpp" />
+		<Unit filename="src\wizBoundingBox.cpp" />
+		<Unit filename="src\wizBoundingVolume.cpp" />
+		<Unit filename="src\wizCamera.cpp" />
+		<Unit filename="src\wizCamera2D.cpp" />
+		<Unit filename="src\wizCamera3D.cpp" />
+		<Unit filename="src\wizCanvas.cpp" />
+		<Unit filename="src\wizColour.cpp" />
+		<Unit filename="src\wizConfig.cpp" />
+		<Unit filename="src\wizFadeChain.cpp" />
+		<Unit filename="src\wizFadeEffect.cpp" />
+		<Unit filename="src\wizFadeToEffect.cpp" />
+		<Unit filename="src\wizFadeWipeEffect.cpp" />
+		<Unit filename="src\wizFolder.cpp" />
+		<Unit filename="src\wizFont.cpp" />
+		<Unit filename="src\wizFontManager.cpp" />
+		<Unit filename="src\wizFrustum.cpp" />
+		<Unit filename="src\wizGame.cpp" />
+		<Unit filename="src\wizGameEntity.cpp" />
+		<Unit filename="src\wizGestureManager.cpp" />
+		<Unit filename="src\wizGestureObject.cpp" />
+		<Unit filename="src\wizInputManager.cpp" />
+		<Unit filename="src\wizIntersectionPoint.cpp" />
+		<Unit filename="src\wizLight.cpp" />
+		<Unit filename="src\wizLightManager.cpp" />
+		<Unit filename="src\wizListUtility.cpp" />
+		<Unit filename="src\wizMaterial.cpp" />
+		<Unit filename="src\wizMaterialManager.cpp" />
+		<Unit filename="src\wizMaterialStage.cpp" />
+		<Unit filename="src\wizMatrix.cpp" />
+		<Unit filename="src\wizMenu.cpp" />
+		<Unit filename="src\wizMenuItem.cpp" />
+		<Unit filename="src\wizMenuItemIcon.cpp" />
+		<Unit filename="src\wizMenuItemIrregularIcon.cpp" />
+		<Unit filename="src\wizMenuItemText.cpp" />
+		<Unit filename="src\wizMenuRadial.cpp" />
+		<Unit filename="src\wizMenuSimple.cpp" />
+		<Unit filename="src\wizMenuSlide.cpp" />
+		<Unit filename="src\wizMesh.cpp" />
+		<Unit filename="src\wizMeshAnimation.cpp" />
+		<Unit filename="src\wizMeshEntity.cpp" />
+		<Unit filename="src\wizMeshFrame.cpp" />
+		<Unit filename="src\wizMeshManager.cpp" />
+		<Unit filename="src\wizMeshRenderer.cpp" />
+		<Unit filename="src\wizParticle.cpp" />
+		<Unit filename="src\wizParticle2D.cpp" />
+		<Unit filename="src\wizParticle3D.cpp" />
+		<Unit filename="src\wizParticleEmitter.cpp" />
+		<Unit filename="src\wizParticleSystem.cpp" />
+		<Unit filename="src\wizParticleSystem2D.cpp" />
+		<Unit filename="src\wizParticleSystem3D.cpp" />
+		<Unit filename="src\wizPhysicsBody.cpp" />
+		<Unit filename="src\wizPhysicsController.cpp" />
+		<Unit filename="src\wizPhysicsHingeJoint.cpp" />
+		<Unit filename="src\wizPhysicsJoint.cpp" />
+		<Unit filename="src\wizPhysicsSliderJoint.cpp" />
+		<Unit filename="src\wizPhysicsSpringJoint.cpp" />
+		<Unit filename="src\wizPlane.cpp" />
+		<Unit filename="src\wizPointLight.cpp" />
+		<Unit filename="src\wizPrimitives.cpp" />
+		<Unit filename="src\wizProgress.cpp" />
+		<Unit filename="src\wizProgressBar.cpp" />
+		<Unit filename="src\wizProjectedShadowRenderer.cpp" />
+		<Unit filename="src\wizRay.cpp" />
+		<Unit filename="src\wizRecording.cpp" />
+		<Unit filename="src\wizScalableHUD.cpp" />
+		<Unit filename="src\wizScene.cpp" />
+		<Unit filename="src\wizSceneManager.cpp" />
+		<Unit filename="src\wizSceneManagerBVH.cpp" />
+		<Unit filename="src\wizSceneManagerLayered.cpp" />
+		<Unit filename="src\wizSceneManagerNode.cpp" />
+		<Unit filename="src\wizSceneManagerOctree.cpp" />
+		<Unit filename="src\wizSceneManagerQuadTree.cpp" />
+		<Unit filename="src\wizSoundController.cpp" />
+		<Unit filename="src\wizSoundController2D.cpp" />
+		<Unit filename="src\wizSoundController3D.cpp" />
+		<Unit filename="src\wizSoundManager.cpp" />
+		<Unit filename="src\wizSpotLight.cpp" />
+		<Unit filename="src\wizSprite.cpp" />
+		<Unit filename="src\wizSpriteAnimation.cpp" />
+		<Unit filename="src\wizSpriteEntity.cpp" />
+		<Unit filename="src\wizSpriteFrame.cpp" />
+		<Unit filename="src\wizSpriteRenderer.cpp" />
+		<Unit filename="src\wizSpriteSheet.cpp" />
+		<Unit filename="src\wizSpriteSheetManager.cpp" />
+		<Unit filename="src\wizState.cpp" />
+		<Unit filename="src\wizStateGroup.cpp" />
+		<Unit filename="src\wizStateManager.cpp" />
+		<Unit filename="src\wizTextureManager.cpp" />
+		<Unit filename="src\wizTriangle.cpp" />
+		<Unit filename="src\wizUIButton.cpp" />
+		<Unit filename="src\wizUIButtonEvent.cpp" />
+		<Unit filename="src\wizUICheckBox.cpp" />
+		<Unit filename="src\wizUIComponent.cpp" />
+		<Unit filename="src\wizUIEvent.cpp" />
+		<Unit filename="src\wizUIPanel.cpp" />
+		<Unit filename="src\wizUISlider.cpp" />
+		<Unit filename="src\wizUITouchDragEvent.cpp" />
+		<Unit filename="src\wizUITouchEvent.cpp" />
+		<Unit filename="src\wizUtility.cpp" />
+		<Unit filename="src\wizVector2.cpp" />
+		<Unit filename="src\wizVector3.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

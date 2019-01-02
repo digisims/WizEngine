@@ -1,0 +1,5066 @@
+# depslib dependency file v1.0
+1280180895 source:d:\projects\gp2x wiz\test\main.cpp
+	"wizGame.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizTextureManager.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_platform.h
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260435348 c:\program files\gph_sdk\dge\include\windows\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1260435650 c:\program files\gph_sdk\dge\include\begin_code.h
+
+1260435650 c:\program files\gph_sdk\dge\include\close_code.h
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1261116408 c:\program files\gph_sdk\dge\include\sdl\sdl_keysym.h
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"pollux_fb_ioctl.h"
+	"close_code.h"
+
+1260435650 c:\program files\gph_sdk\dge\include\pollux_fb_ioctl.h
+	"pollux_fb_cfg.h"
+
+1260435650 c:\program files\gph_sdk\dge\include\pollux_fb_cfg.h
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1261117236 c:\program files\gph_sdk\dge\include\dge_frame.h
+
+1261117290 c:\program files\gph_sdk\dge\include\dge_display.h
+	"../DGE_Systemdefine.h"
+	"SDL_opengl.h"
+	"OpenGLES/gl.h"
+	"OpenGLES/egl.h"
+	"OpenGLES/glext.h"
+	"../Panel/fake_os.h"
+
+1261117174 c:\program files\gph_sdk\dge\include\dge_systemdefine.h
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1260435348 c:\program files\gph_sdk\dge\include\opengles\gl.h
+
+1260435348 c:\program files\gph_sdk\dge\include\opengles\egl.h
+	"GLES/gl.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\opengles\glext.h
+
+1260435348 c:\program files\gph_sdk\dge\include\panel\fake_os.h
+	<stdio.h>
+
+1261117194 c:\program files\gph_sdk\dge\include\dge_render.h
+	"DGE_SurfaceManager.h"
+	<vector>
+
+1261117178 c:\program files\gph_sdk\dge\include\dge_surfacemanager.h
+
+1260435650 c:\program files\gph_sdk\dge\include\dge_log.h
+	<stdio.h>
+
+1260435650 c:\program files\gph_sdk\dge\include\dge_input.h
+
+1261117290 c:\program files\gph_sdk\dge\include\dge_fixed.h
+	"../../Display/OpenGLES/gl.h"
+	"OpenGLES/gl.h"
+
+1261117206 c:\program files\gph_sdk\dge\include\dge_publicfont.h
+	"SDL_ttf.h"
+	"../Display/DGE_Display.h"
+	"../3D/Math/DGE_Fixed.h"
+	"DGE_Display.h"
+	"DGE_Fixed.h"
+	<string.h>
+	<memory.h>
+	<malloc.h>
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1261117186 c:\program files\gph_sdk\dge\include\dge_sound.h
+	<SDL_mixer.h>
+
+1260435650 c:\program files\gph_sdk\dge\include\dge_drm.h
+
+1261117290 c:\program files\gph_sdk\dge\include\dge_file.h
+	<stdio.h>
+	<string.h>
+
+1261117170 c:\program files\gph_sdk\dge\include\dge_vector.h
+	<math.h>
+	<assert.h>
+
+1261117240 c:\program files\gph_sdk\dge\include\dge_matrix.h
+	"DGE_Vector.h"
+	<math.h>
+	<memory.h>
+
+1279830253 source:d:\projects\gp2x wiz\test\src\wizsound.cpp
+	"wizSound.h"
+
+1279830235 d:\projects\gp2x wiz\test\include\wizsound.h
+	"DGE_Sound.h"
+	<map>
+	<string>
+
+1284382332 source:c:\documents and settings\kurt.kruger\desktop\test\main.cpp
+	"wizGame.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizTextureManager.h"
+	"wizMeshEntity.h"
+	"wizMesh.h"
+	"wizMeshManager.h"
+	"wizMeshRenderer.h"
+	"wizCamera3D.h"
+	"wizCamera2D.h"
+	"wizScene.h"
+	"wizSceneManagerQuadtree.h"
+	"wizPhysicsController.h"
+	"wizBlob.h"
+	"wizBlobShadowRenderer.h"
+	"wizListUtility.h"
+	"wizPrimitives.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizScalableHUD.h"
+	"wizFadeToEffect.h"
+	"wizFadeChain.h"
+	"wizProgressBar.h"
+	"wizFadeWipeEffect.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	"wizSoundManager.h"
+	"wizSoundController3D.h"
+	"wizFolder.h"
+	"wizProjectedShadowRenderer.h"
+	"wizMenuRadial.h"
+	"wizMenuItemText.h"
+	"wizRenderer.h"
+	<time.h>
+	<map>
+	<string>
+	<unistd.h>
+
+1279869714 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizcanvas.cpp
+	"wizCanvas.h"
+
+1279869704 c:\documents and settings\kurt.kruger\desktop\test\include\wizcanvas.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<map>
+	<string>
+
+1279781886 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizstate.cpp
+	"wizState.h"
+
+1283360854 c:\documents and settings\kurt.kruger\desktop\test\include\wizstate.h
+
+1283360923 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizstategroup.cpp
+	"wizStateGroup.h"
+
+1283360934 c:\documents and settings\kurt.kruger\desktop\test\include\wizstategroup.h
+	"wizState.h"
+	<map>
+	<string>
+
+1283340629 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizvector2.cpp
+	"wizVector2.h"
+
+1283340631 c:\documents and settings\kurt.kruger\desktop\test\include\wizvector2.h
+	<math.h>
+
+1281452278 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizvector3.cpp
+	"wizVector3.h"
+
+1281451955 c:\documents and settings\kurt.kruger\desktop\test\include\wizvector3.h
+	<math.h>
+	<cstdlib>
+
+1280177177 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizgesture.cpp
+	"wizGesture.h"
+
+1280177165 c:\documents and settings\kurt.kruger\desktop\test\include\wizgesture.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1279796023 c:\documents and settings\kurt.kruger\desktop\test\include\wizinput.h
+	"DGE_Input.h"
+	"wizVector2.h"
+
+1279797793 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizinput.cpp
+	"wizInput.h"
+
+1279830254 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsound.cpp
+	"wizSound.h"
+
+1279830236 c:\documents and settings\kurt.kruger\desktop\test\include\wizsound.h
+	"DGE_Sound.h"
+	<map>
+	<string>
+
+1280054210 c:\documents and settings\kurt.kruger\desktop\test\include\wizgestureobject.h
+	"wizUtility.h"
+	<string>
+
+1280174014 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizgestureobject.cpp
+	"wizGestureObject.h"
+
+1279869712 source:d:\projects\gp2x wiz\test\src\wizcanvas.cpp
+	"wizCanvas.h"
+
+1279869702 d:\projects\gp2x wiz\test\include\wizcanvas.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<map>
+	<string>
+
+1280177177 source:d:\projects\gp2x wiz\test\src\wizgesture.cpp
+	"wizGesture.h"
+
+1280177165 d:\projects\gp2x wiz\test\include\wizgesture.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1279795493 d:\projects\gp2x wiz\test\include\wizvector2.h
+	<math.h>
+
+1279796023 d:\projects\gp2x wiz\test\include\wizinput.h
+	"DGE_Input.h"
+	"wizVector2.h"
+
+1280054209 d:\projects\gp2x wiz\test\include\wizgestureobject.h
+	"wizUtility.h"
+	<string>
+
+1280174013 source:d:\projects\gp2x wiz\test\src\wizgestureobject.cpp
+	"wizGestureObject.h"
+
+1279797793 source:d:\projects\gp2x wiz\test\src\wizinput.cpp
+	"wizInput.h"
+
+1279781885 source:d:\projects\gp2x wiz\test\src\wizstate.cpp
+	"wizState.h"
+
+1280174951 d:\projects\gp2x wiz\test\include\wizstate.h
+
+1280176371 source:d:\projects\gp2x wiz\test\src\wizstategroup.cpp
+	"wizStateGroup.h"
+
+1279830365 d:\projects\gp2x wiz\test\include\wizstategroup.h
+	"wizState.h"
+	<map>
+	<string>
+
+1279795539 source:d:\projects\gp2x wiz\test\src\wizvector2.cpp
+	"wizVector2.h"
+
+1280218672 source:d:\projects\gp2x wiz\test\src\wizvector3.cpp
+	"wizVector3.h"
+
+1280218645 d:\projects\gp2x wiz\test\include\wizvector3.h
+	<math.h>
+	<cstdlib>
+
+1280173912 source:d:\projects\gp2x wiz\test\src\wizsprite.cpp
+	"wizSprite.h"
+
+1280074425 d:\projects\gp2x wiz\test\include\wizsprite.h
+	"wizUtility.h"
+	"wizSpriteAnimation.h"
+	<map>
+	<string>
+	<fstream>
+
+1280143650 d:\projects\gp2x wiz\test\include\wizspriteanimation.h
+	"wizUtility.h"
+	"wizSpriteFrame.h"
+	<vector>
+	<string>
+	<fstream>
+
+1280143355 d:\projects\gp2x wiz\test\include\wizspriteframe.h
+	"wizUtility.h"
+	"wizVector2.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280143650 source:d:\projects\gp2x wiz\test\src\wizspriteanimation.cpp
+	"wizSpriteAnimation.h"
+
+1280182202 source:d:\projects\gp2x wiz\test\src\wizspriteentity.cpp
+	"wizSpriteEntity.h"
+
+1280182071 d:\projects\gp2x wiz\test\include\wizspriteentity.h
+	"wizGameEntity.h"
+	"wizVector2.h"
+	"wizGame.h"
+	"wizSpriteFrame.h"
+	"wizSpriteSheetManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280173912 source:d:\projects\gp2x wiz\test\src\wizspriteframe.cpp
+	"wizSpriteFrame.h"
+
+1279864014 source:d:\projects\gp2x wiz\test\src\wizspritesheet.cpp
+	"wizSpritesheet.h"
+
+1279863986 d:\projects\gp2x wiz\test\include\wizspritesheet.h
+	"wizSprite.h"
+	<map>
+
+1280048054 source:d:\projects\gp2x wiz\test\src\wizcolour.cpp
+	"wizColour.h"
+
+1280048069 d:\projects\gp2x wiz\test\include\wizcolour.h
+	<cstdlib>
+
+1282548780 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizcolour.cpp
+	"wizColour.h"
+
+1282548831 c:\documents and settings\kurt.kruger\desktop\test\include\wizcolour.h
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+
+1282713878 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsprite.cpp
+	"wizSprite.h"
+
+1282682120 c:\documents and settings\kurt.kruger\desktop\test\include\wizsprite.h
+	"wizUtility.h"
+	"wizSpriteAnimation.h"
+	<map>
+	<string>
+	<fstream>
+
+1280143652 c:\documents and settings\kurt.kruger\desktop\test\include\wizspriteanimation.h
+	"wizUtility.h"
+	"wizSpriteFrame.h"
+	<vector>
+	<string>
+	<fstream>
+
+1282715127 c:\documents and settings\kurt.kruger\desktop\test\include\wizspriteframe.h
+	"wizUtility.h"
+	"wizVector2.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280143652 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspriteanimation.cpp
+	"wizSpriteAnimation.h"
+
+1282715125 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspriteframe.cpp
+	"wizSpriteFrame.h"
+
+1284022144 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspritesheet.cpp
+	"wizSpritesheet.h"
+
+1284022195 c:\documents and settings\kurt.kruger\desktop\test\include\wizspritesheet.h
+	"wizSprite.h"
+	"wizTextureManager.h"
+	<map>
+
+1283327494 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspriteentity.cpp
+	"wizSpriteEntity.h"
+
+1282803755 c:\documents and settings\kurt.kruger\desktop\test\include\wizspriteentity.h
+	"wizGameEntity.h"
+	"wizVector2.h"
+	"wizGame.h"
+	"wizSpriteFrame.h"
+	"wizSpriteSheetManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1283840267 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspriterenderer.cpp
+	"wizSpriteRenderer.h"
+
+1284381009 c:\documents and settings\kurt.kruger\desktop\test\include\wizspriterenderer.h
+	"wizRenderer.h"
+	"wizTextureManager.h"
+	"wizSpriteEntity.h"
+	"wizParticle.h"
+	<vector>
+	<map>
+
+1282683083 c:\documents and settings\kurt.kruger\desktop\test\include\wizspritesheetmanager.h
+	"wizSpriteSheet.h"
+	<map>
+
+1279863838 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspritesheetmanager.cpp
+	"wizSpritesheetManager.h"
+
+1283515369 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsoundmanager.cpp
+	"wizSoundManager.h"
+
+1283498445 c:\documents and settings\kurt.kruger\desktop\test\include\wizsoundmanager.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<map>
+	<string>
+	<vector>
+
+1283321777 c:\documents and settings\kurt.kruger\desktop\test\include\wiztexturemanager.h
+	"SDL.h"
+	"SDL_Image.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<map>
+	<fstream>
+
+1283379310 source:c:\documents and settings\kurt.kruger\desktop\test\src\wiztexturemanager.cpp
+	"wizTextureManager.h"
+
+1282220452 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizgesturemanager.cpp
+	"wizGestureManager.h"
+
+1279870822 c:\documents and settings\kurt.kruger\desktop\test\include\wizgesturemanager.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1282381788 c:\documents and settings\kurt.kruger\desktop\test\include\wizinputmanager.h
+	"DGE_Input.h"
+	"wizVector2.h"
+	"wizGame.h"
+	<vector>
+
+1282381788 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizinputmanager.cpp
+	"wizInputManager.h"
+
+1283771692 c:\documents and settings\kurt.kruger\desktop\test\include\wizgame.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1280465400 c:\documents and settings\kurt.kruger\desktop\test\include\wizstatemanager.h
+	"wizStateGroup.h"
+	<vector>
+
+1283774314 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizgame.cpp
+	"wizGame.h"
+
+1283361937 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizstatemanager.cpp
+	"wizStateManager.h"
+
+1284199671 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfont.cpp
+	"wizFont.h"
+	<fstream>
+	<iostream>
+
+1284199319 c:\documents and settings\kurt.kruger\desktop\test\include\wizfont.h
+	"wizTextureManager.h"
+	"wizVector2.h"
+	"wizUtility.h"
+	"wizGame.h"
+	<string>
+	<vector>
+	<fstream>
+
+1279882582 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfontmanager.cpp
+	"wizFontManager.h"
+
+1281944616 c:\documents and settings\kurt.kruger\desktop\test\include\wizfontmanager.h
+	"wizFont.h"
+	<string>
+	<map>
+
+1282683183 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizcamera.cpp
+	"wizCamera.h"
+
+1282683183 c:\documents and settings\kurt.kruger\desktop\test\include\wizcamera.h
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1281036818 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizcamera2d.cpp
+	"wizCamera2D.h"
+
+1280382726 c:\documents and settings\kurt.kruger\desktop\test\include\wizcamera2d.h
+	"wizCamera.h"
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284038486 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizcamera3d.cpp
+	"wizCamera3D.h"
+	<fstream>
+
+1284038476 c:\documents and settings\kurt.kruger\desktop\test\include\wizcamera3d.h
+	"wizCamera.h"
+	"wizVector3.h"
+	"wizFrustum.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<math.h>
+
+1280208211 source:d:\projects\gp2x wiz\test\src\wizcamera.cpp
+	"wizCamera.h"
+
+1280208210 d:\projects\gp2x wiz\test\include\wizcamera.h
+	"wizVector2.h"
+
+1279883320 source:d:\projects\gp2x wiz\test\src\wizcamera2d.cpp
+	"wizCamera2D.h"
+
+1279883359 d:\projects\gp2x wiz\test\include\wizcamera2d.h
+	"wizCamera.h"
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1279882581 source:d:\projects\gp2x wiz\test\src\wizfontmanager.cpp
+	"wizFontManager.h"
+
+1279882598 d:\projects\gp2x wiz\test\include\wizfontmanager.h
+	"wizFont.h"
+	<string>
+	<map>
+
+1280180406 d:\projects\gp2x wiz\test\include\wizfont.h
+	"wizTextureManager.h"
+	"wizVector2.h"
+	"wizUtility.h"
+	<string>
+	<vector>
+	<fstream>
+
+1280259862 d:\projects\gp2x wiz\test\include\wiztexturemanager.h
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<map>
+
+1280177547 source:d:\projects\gp2x wiz\test\src\wizgame.cpp
+	"wizGame.h"
+	<iostream>
+
+1279875859 d:\projects\gp2x wiz\test\include\wizgame.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	<map>
+	<string>
+
+1279883032 d:\projects\gp2x wiz\test\include\wizinputmanager.h
+	"DGE_Input.h"
+	"wizVector2.h"
+
+1279875964 d:\projects\gp2x wiz\test\include\wizstatemanager.h
+	"wizStateGroup.h"
+	<vector>
+
+1279870821 source:d:\projects\gp2x wiz\test\src\wizinputmanager.cpp
+	"wizInputManager.h"
+
+1279869251 source:d:\projects\gp2x wiz\test\src\wizsoundmanager.cpp
+	"wizSoundManager.h"
+
+1279869251 d:\projects\gp2x wiz\test\include\wizsoundmanager.h
+	"DGE_Sound.h"
+	<map>
+	<string>
+
+1279863837 source:d:\projects\gp2x wiz\test\src\wizspritesheetmanager.cpp
+	"wizSpritesheetManager.h"
+
+1279863816 d:\projects\gp2x wiz\test\include\wizspritesheetmanager.h
+	"wizSpriteSheet.h"
+	<map>
+
+1280250986 source:d:\projects\gp2x wiz\test\src\wizcamera3d.cpp
+	"wizCamera3D.h"
+
+1280250991 d:\projects\gp2x wiz\test\include\wizcamera3d.h
+	"wizCamera.h"
+	"wizVector3.h"
+	"wizFrustum.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<math.h>
+
+1280181182 source:d:\projects\gp2x wiz\test\src\wizfont.cpp
+	"wizFont.h"
+	<fstream>
+
+1280174397 source:d:\projects\gp2x wiz\test\src\wizgesturemanager.cpp
+	"wizGestureManager.h"
+
+1279870821 d:\projects\gp2x wiz\test\include\wizgesturemanager.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1280246199 source:d:\projects\gp2x wiz\test\src\wizspriterenderer.cpp
+	"wizSpriteRenderer.h"
+
+1280246212 d:\projects\gp2x wiz\test\include\wizspriterenderer.h
+	"wizRenderer.h"
+	"wizTextureManager.h"
+	"wizSpriteEntity.h"
+	"wizParticle.h"
+	<vector>
+
+1280176380 source:d:\projects\gp2x wiz\test\src\wizstatemanager.cpp
+	"wizStateManager.h"
+
+1280181371 source:d:\projects\gp2x wiz\test\src\wiztexturemanager.cpp
+	"wizTextureManager.h"
+
+1280147766 source:d:\projects\gp2x wiz\test\src\wizgameentity.cpp
+	"wizGameEntity.h"
+
+1280144273 d:\projects\gp2x wiz\test\include\wizgameentity.h
+	"wizUtility.h"
+	<string>
+
+1280143612 source:d:\projects\gp2x wiz\test\src\wizmeshanimation.cpp
+	"wizMeshAnimation.h"
+
+1280143614 d:\projects\gp2x wiz\test\include\wizmeshanimation.h
+	"wizMeshFrame.h"
+	<vector>
+	<fstream>
+
+1280214267 d:\projects\gp2x wiz\test\include\wizmeshframe.h
+	"wizUtility.h"
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<fstream>
+
+1280217514 source:d:\projects\gp2x wiz\test\src\wizmeshframe.cpp
+	"wizMeshFrame.h"
+
+1280173912 source:d:\projects\gp2x wiz\test\src\wizmesh.cpp
+	"wizMesh.h"
+
+1280071689 d:\projects\gp2x wiz\test\include\wizmesh.h
+	"wizUtility.h"
+	"wizMeshAnimation.h"
+	<map>
+	<string>
+	<vector>
+	<fstream>
+
+1279972866 source:d:\projects\gp2x wiz\test\src\wizmeshmanager.cpp
+	"wizMeshManager.h"
+
+1279972843 d:\projects\gp2x wiz\test\include\wizmeshmanager.h
+	"wizMesh.h"
+	<map>
+
+1280231975 d:\projects\gp2x wiz\test\include\wizrenderer.h
+
+1280214240 source:d:\projects\gp2x wiz\test\src\wizmeshentity.cpp
+	"wizMeshEntity.h"
+
+1280212806 d:\projects\gp2x wiz\test\include\wizmeshentity.h
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+	"wizGame.h"
+	"wizMeshFrame.h"
+	"wizMeshManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280221833 source:d:\projects\gp2x wiz\test\src\wizmeshrenderer.cpp
+	"wizMeshRenderer.h"
+
+1280231975 d:\projects\gp2x wiz\test\include\wizmeshrenderer.h
+	"wizRenderer.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialStage.h"
+	"wizMaterialManager.h"
+	"wizTextureManager.h"
+	"wizLightManager.h"
+	<vector>
+
+1279984454 source:d:\projects\gp2x wiz\test\src\wizrenderer.cpp
+	"wizRenderer.h"
+
+1280180662 source:d:\projects\gp2x wiz\test\src\wizmaterialstage.cpp
+	"wizMaterialStage.h"
+
+1280151257 d:\projects\gp2x wiz\test\include\wizmaterialstage.h
+	"wizUtility.h"
+	"wizTextureManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<string>
+	<fstream>
+
+1280173912 source:d:\projects\gp2x wiz\test\src\wizmaterial.cpp
+	"wizMaterial.h"
+
+1280071553 d:\projects\gp2x wiz\test\include\wizmaterial.h
+	"wizMaterialStage.h"
+	"wizColour.h"
+	"wizUtility.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<fstream>
+
+1280259955 d:\projects\gp2x wiz\test\include\wizutility.h
+	<string>
+	<sstream>
+	<vector>
+
+1280055165 source:d:\projects\gp2x wiz\test\src\wizmaterialmanager.cpp
+	"wizMaterialManager.h"
+
+1280055143 d:\projects\gp2x wiz\test\include\wizmaterialmanager.h
+	"wizMaterial.h"
+
+1280082983 source:d:\projects\gp2x wiz\test\src\wizray.cpp
+	"wizRay.h"
+
+1280082938 d:\projects\gp2x wiz\test\include\wizray.h
+	"wizVector3.h"
+	<cstdlib>
+
+1280221834 source:d:\projects\gp2x wiz\test\src\wizboundingvolume.cpp
+	"wizBoundingVolume.h"
+
+1280221834 d:\projects\gp2x wiz\test\include\wizboundingvolume.h
+	"wizVector3.h"
+	"wizIntersectionPoint.h"
+	"wizRay.h"
+
+1280083579 d:\projects\gp2x wiz\test\include\wizintersectionpoint.h
+	"wizVector3.h"
+	<cstdlib>
+
+1280083580 source:d:\projects\gp2x wiz\test\src\wizintersectionpoint.cpp
+	"wizIntersectionPoint.h"
+
+1280221848 source:d:\projects\gp2x wiz\test\src\wizboundingbox.cpp
+	"wizBoundingBox.h"
+
+1280221834 d:\projects\gp2x wiz\test\include\wizboundingbox.h
+	"wizBoundingVolume.h"
+	"wizVector3.h"
+	<cstdlib>
+	<limits>
+
+1283580118 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizboundingbox.cpp
+	"wizBoundingBox.h"
+
+1283580046 c:\documents and settings\kurt.kruger\desktop\test\include\wizboundingbox.h
+	"wizBoundingVolume.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<limits>
+
+1281079002 c:\documents and settings\kurt.kruger\desktop\test\include\wizboundingvolume.h
+	"wizVector3.h"
+	"wizIntersectionPoint.h"
+	"wizRay.h"
+
+1280992954 c:\documents and settings\kurt.kruger\desktop\test\include\wizintersectionpoint.h
+	"wizVector3.h"
+	"wizRay.h"
+	<cstdlib>
+
+1280991652 c:\documents and settings\kurt.kruger\desktop\test\include\wizray.h
+	"wizVector3.h"
+	<cstdlib>
+
+1280221836 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizboundingvolume.cpp
+	"wizBoundingVolume.h"
+
+1282496140 c:\documents and settings\kurt.kruger\desktop\test\include\wizutility.h
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1280349216 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizgameentity.cpp
+	"wizGameEntity.h"
+
+1280144274 c:\documents and settings\kurt.kruger\desktop\test\include\wizgameentity.h
+	"wizUtility.h"
+	<string>
+
+1280992956 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizintersectionpoint.cpp
+	"wizIntersectionPoint.h"
+
+1283838525 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmaterial.cpp
+	"wizMaterial.h"
+
+1283838358 c:\documents and settings\kurt.kruger\desktop\test\include\wizmaterial.h
+	"wizMaterialStage.h"
+	"wizColour.h"
+	"wizUtility.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<fstream>
+
+1281906743 c:\documents and settings\kurt.kruger\desktop\test\include\wizmaterialstage.h
+	"wizUtility.h"
+	"wizTextureManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<string>
+	<fstream>
+
+1280055166 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmaterialmanager.cpp
+	"wizMaterialManager.h"
+
+1281944490 c:\documents and settings\kurt.kruger\desktop\test\include\wizmaterialmanager.h
+	"wizMaterial.h"
+
+1284022165 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmaterialstage.cpp
+	"wizMaterialStage.h"
+
+1283945431 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmesh.cpp
+	"wizMesh.h"
+
+1283945254 c:\documents and settings\kurt.kruger\desktop\test\include\wizmesh.h
+	"wizUtility.h"
+	"wizMeshAnimation.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<vector>
+	<fstream>
+
+1283339109 c:\documents and settings\kurt.kruger\desktop\test\include\wizmeshanimation.h
+	"wizMeshFrame.h"
+	"wizProgress.h"
+	<vector>
+	<fstream>
+
+1283339069 c:\documents and settings\kurt.kruger\desktop\test\include\wizmeshframe.h
+	"wizUtility.h"
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizProgress.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<fstream>
+
+1283063567 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmeshanimation.cpp
+	"wizMeshAnimation.h"
+
+1284366838 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmeshentity.cpp
+	"wizMeshEntity.h"
+
+1284122852 c:\documents and settings\kurt.kruger\desktop\test\include\wizmeshentity.h
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+	"wizGame.h"
+	"wizRay.h"
+	"wizMeshFrame.h"
+	"wizMeshManager.h"
+	"wizIntersectionPoint.h"
+	"wizTriangle.h"
+	"wizMatrix.h"
+	"wizPhysicsBody.h"
+	"wizPhysicsJoint.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280341234 c:\documents and settings\kurt.kruger\desktop\test\include\wizmeshmanager.h
+	"wizMesh.h"
+	<map>
+
+1279972868 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmeshmanager.cpp
+	"wizMeshManager.h"
+
+1283958188 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmeshrenderer.cpp
+	"wizMeshRenderer.h"
+
+1283838261 c:\documents and settings\kurt.kruger\desktop\test\include\wizmeshrenderer.h
+	"wizRenderer.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialStage.h"
+	"wizMaterialManager.h"
+	"wizTextureManager.h"
+	"wizLightManager.h"
+	"wizCamera3D.h"
+	"wizRay.h"
+	"wizBoundingBox.h"
+	<vector>
+	<algorithm>
+
+1280231976 c:\documents and settings\kurt.kruger\desktop\test\include\wizrenderer.h
+
+1280991667 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizray.cpp
+	"wizRay.h"
+
+1279984454 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizrenderer.cpp
+	"wizRenderer.h"
+
+1280992768 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfrustum.cpp
+	"wizFrustum.h"
+
+1280992769 c:\documents and settings\kurt.kruger\desktop\test\include\wizfrustum.h
+	"wizPlane.h"
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	<cstdlib>
+
+1280122442 c:\documents and settings\kurt.kruger\desktop\test\include\wizplane.h
+	"wizVector3.h"
+
+1283339164 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmeshframe.cpp
+	"wizMeshFrame.h"
+
+1280748226 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizplane.cpp
+	"wizPlane.h"
+
+1280649391 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanager.cpp
+	"wizSceneManager.h"
+
+1280208082 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanager.h
+	"wizGameEntity.h"
+	"wizCamera.h"
+	<vector>
+
+1282113460 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanagernode.cpp
+	"wizSceneManagerNode.h"
+
+1282207409 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanagernode.h
+	"wizSceneManager.h"
+	"wizBoundingBox.h"
+	"wizCamera3D.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	<vector>
+
+1280646195 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanagerbvh.cpp
+	"wizSceneManagerBVH.h"
+
+1280682234 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanagerbvh.h
+	"wizSceneManager.h"
+	"wizSceneManagerNode.h"
+
+1282460217 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanageroctree.cpp
+	"wizSceneManagerOctree.h"
+	<fstream>
+
+1280682234 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanageroctree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280682301 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanagerkdtree.cpp
+	"wizSceneManagerKDTree.h"
+
+1280682234 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanagerkdtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280126408 d:\projects\gp2x wiz\test\include\wizfrustum.h
+	"wizPlane.h"
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	<cstdlib>
+
+1280122441 d:\projects\gp2x wiz\test\include\wizplane.h
+	"wizVector3.h"
+
+1280122761 source:d:\projects\gp2x wiz\test\src\wizfrustum.cpp
+	"wizFrustum.h"
+
+1280122475 source:d:\projects\gp2x wiz\test\src\wizplane.cpp
+	"wizPlane.h"
+
+1280178418 source:d:\projects\gp2x wiz\test\src\wizscenemanager.cpp
+	"wizSceneManager.h"
+
+1280208081 d:\projects\gp2x wiz\test\include\wizscenemanager.h
+	"wizGameEntity.h"
+	"wizCamera.h"
+	<vector>
+
+1280128422 source:d:\projects\gp2x wiz\test\src\wizscenemanagerbvh.cpp
+	"wizSceneManagerBVH.h"
+
+1280128414 d:\projects\gp2x wiz\test\include\wizscenemanagerbvh.h
+	"wizSceneManager.h"
+	"wizSceneManagerNode.h"
+
+1280132555 d:\projects\gp2x wiz\test\include\wizscenemanagernode.h
+	"wizSceneManager.h"
+	"wizBoundingBox.h"
+	"wizCamera3D.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	<vector>
+
+1280178422 source:d:\projects\gp2x wiz\test\src\wizscenemanagernode.cpp
+	"wizSceneManagerNode.h"
+
+1280174429 source:d:\projects\gp2x wiz\test\src\wizscenemanagerkdtree.cpp
+	"wizSceneManagerKDTree.h"
+
+1280174426 d:\projects\gp2x wiz\test\include\wizscenemanagerkdtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280174441 source:d:\projects\gp2x wiz\test\src\wizscenemanageroctree.cpp
+	"wizSceneManagerOctree.h"
+
+1280174436 d:\projects\gp2x wiz\test\include\wizscenemanageroctree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280259922 source:d:\projects\gp2x wiz\test\src\wizutility.cpp
+	"wizUtility.h"
+	"wizUtility.h"
+
+1282496116 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizutility.cpp
+	"wizUtility.h"
+
+1280208310 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanagerlayered.cpp
+	"wizSceneManagerLayered.h"
+
+1280208386 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanagerlayered.h
+	"wizSceneManager.h"
+	"wizGameEntity.h"
+	"wizSpriteEntity.h"
+	<vector>
+
+1283327494 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizlight.cpp
+	"wizLight.h"
+
+1280218464 c:\documents and settings\kurt.kruger\desktop\test\include\wizlight.h
+	"wizColour.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1280349626 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizpointlight.cpp
+	"wizPointLight.h"
+
+1280218292 c:\documents and settings\kurt.kruger\desktop\test\include\wizpointlight.h
+	"wizLight.h"
+
+1283327494 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizspotlight.cpp
+	"wizSpotLight.h"
+
+1280218948 c:\documents and settings\kurt.kruger\desktop\test\include\wizspotlight.h
+	"wizLight.h"
+
+1282042588 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizlightmanager.cpp
+	"wizLightManager.h"
+
+1282042580 c:\documents and settings\kurt.kruger\desktop\test\include\wizlightmanager.h
+	"wizLight.h"
+	"wizUtility.h"
+	<vector>
+	<string>
+
+1280230838 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticle.cpp
+	"wizParticle.h"
+
+1280245978 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticle.h
+	"wizVector3.h"
+	"wizSpriteEntity.h"
+
+1282683121 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticle2d.cpp
+	"wizParticle2D.h"
+
+1280246098 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticle2d.h
+	"wizVector2.h"
+	"wizParticle.h"
+
+1280229434 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticleemitter.cpp
+	"wizParticleEmitter.h"
+
+1280229428 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticleemitter.h
+	"wizParticle.h"
+
+1280349726 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticlesystem.cpp
+	"wizParticleSystem.h"
+
+1280245098 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticlesystem.h
+	"wizParticleEmitter.h"
+	"wizSpriteRenderer.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1280218462 source:d:\projects\gp2x wiz\test\src\wizlight.cpp
+	"wizLight.h"
+
+1280218462 d:\projects\gp2x wiz\test\include\wizlight.h
+	"wizColour.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1280221959 source:d:\projects\gp2x wiz\test\src\wizlightmanager.cpp
+	"wizLightManager.h"
+
+1280221960 d:\projects\gp2x wiz\test\include\wizlightmanager.h
+	"wizLight.h"
+	"wizUtility.h"
+	<vector>
+	<string>
+
+1280230837 source:d:\projects\gp2x wiz\test\src\wizparticle.cpp
+	"wizParticle.h"
+
+1280245977 d:\projects\gp2x wiz\test\include\wizparticle.h
+	"wizVector3.h"
+	"wizSpriteEntity.h"
+
+1280234932 source:d:\projects\gp2x wiz\test\src\wizparticle2d.cpp
+	"wizParticle2D.h"
+
+1280246097 d:\projects\gp2x wiz\test\include\wizparticle2d.h
+	"wizVector2.h"
+	"wizParticle.h"
+
+1280229433 source:d:\projects\gp2x wiz\test\src\wizparticleemitter.cpp
+	"wizParticleEmitter.h"
+
+1280229427 d:\projects\gp2x wiz\test\include\wizparticleemitter.h
+	"wizParticle.h"
+
+1280218339 source:d:\projects\gp2x wiz\test\src\wizpointlight.cpp
+	"wizPointLight.h"
+
+1280218291 d:\projects\gp2x wiz\test\include\wizpointlight.h
+	"wizLight.h"
+
+1280208308 source:d:\projects\gp2x wiz\test\src\wizscenemanagerlayered.cpp
+	"wizSceneManagerLayered.h"
+
+1280208385 d:\projects\gp2x wiz\test\include\wizscenemanagerlayered.h
+	"wizSceneManager.h"
+	"wizGameEntity.h"
+	"wizSpriteEntity.h"
+	<vector>
+
+1280219126 source:d:\projects\gp2x wiz\test\src\wizspotlight.cpp
+	"wizSpotLight.h"
+
+1280218946 d:\projects\gp2x wiz\test\include\wizspotlight.h
+	"wizLight.h"
+
+1280245173 source:d:\projects\gp2x wiz\test\src\wizparticlesystem.cpp
+	"wizParticleSystem.h"
+
+1280245097 d:\projects\gp2x wiz\test\include\wizparticlesystem.h
+	"wizParticleEmitter.h"
+	"wizSpriteRenderer.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1280246254 source:d:\projects\gp2x wiz\test\src\wizparticlesystem2d.cpp
+	"wizParticleSystem2D.h"
+
+1280246084 d:\projects\gp2x wiz\test\include\wizparticlesystem2d.h
+	"wizParticleSystem.h"
+	"wizParticle2D.h"
+
+1280251492 source:d:\projects\gp2x wiz\test\src\wizparticle3d.cpp
+	"wizParticle3D.h"
+
+1280250898 d:\projects\gp2x wiz\test\include\wizparticle3d.h
+	"wizVector3.h"
+	"wizParticle.h"
+	"wizCamera3D.h"
+	"wizUtility.h"
+
+1280263635 source:d:\projects\gp2x wiz\test\src\wizparticlesystem3d.cpp
+	"wizParticleSystem3D.h"
+
+1280263648 d:\projects\gp2x wiz\test\include\wizparticlesystem3d.h
+	"wizParticleSystem.h"
+	"wizParticle3D.h"
+
+1281191217 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticle3d.cpp
+	"wizParticle3D.h"
+
+1280349726 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticle3d.h
+	"wizVector3.h"
+	"wizParticle.h"
+	"wizCamera3D.h"
+	"wizUtility.h"
+
+1280349726 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticlesystem2d.cpp
+	"wizParticleSystem2D.h"
+
+1280246086 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticlesystem2d.h
+	"wizParticleSystem.h"
+	"wizParticle2D.h"
+
+1280578249 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizparticlesystem3d.cpp
+	"wizParticleSystem3D.h"
+
+1280399058 c:\documents and settings\kurt.kruger\desktop\test\include\wizparticlesystem3d.h
+	"wizParticleSystem.h"
+	"wizParticle3D.h"
+	<vector>
+
+1283580118 source:d:\test\src\wizboundingbox.cpp
+	"wizBoundingBox.h"
+
+1283580046 d:\test\include\wizboundingbox.h
+	"wizBoundingVolume.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<limits>
+
+1281079002 d:\test\include\wizboundingvolume.h
+	"wizVector3.h"
+	"wizIntersectionPoint.h"
+	"wizRay.h"
+
+1281451955 d:\test\include\wizvector3.h
+	<math.h>
+	<cstdlib>
+
+1280992954 d:\test\include\wizintersectionpoint.h
+	"wizVector3.h"
+	"wizRay.h"
+	<cstdlib>
+
+1280991652 d:\test\include\wizray.h
+	"wizVector3.h"
+	<cstdlib>
+
+1280221836 source:d:\test\src\wizboundingvolume.cpp
+	"wizBoundingVolume.h"
+
+1282683183 source:d:\test\src\wizcamera.cpp
+	"wizCamera.h"
+
+1282683183 d:\test\include\wizcamera.h
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1283340631 d:\test\include\wizvector2.h
+	<math.h>
+
+1281036818 source:d:\test\src\wizcamera2d.cpp
+	"wizCamera2D.h"
+
+1280382726 d:\test\include\wizcamera2d.h
+	"wizCamera.h"
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284038486 source:d:\test\src\wizcamera3d.cpp
+	"wizCamera3D.h"
+	<fstream>
+
+1284038476 d:\test\include\wizcamera3d.h
+	"wizCamera.h"
+	"wizVector3.h"
+	"wizFrustum.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<math.h>
+
+1280992769 d:\test\include\wizfrustum.h
+	"wizPlane.h"
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	<cstdlib>
+
+1280122442 d:\test\include\wizplane.h
+	"wizVector3.h"
+
+1279869714 source:d:\test\src\wizcanvas.cpp
+	"wizCanvas.h"
+
+1279869704 d:\test\include\wizcanvas.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<map>
+	<string>
+
+1282548780 source:d:\test\src\wizcolour.cpp
+	"wizColour.h"
+
+1282548831 d:\test\include\wizcolour.h
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+
+1284199671 source:d:\test\src\wizfont.cpp
+	"wizFont.h"
+	<fstream>
+	<iostream>
+
+1284199319 d:\test\include\wizfont.h
+	"wizTextureManager.h"
+	"wizVector2.h"
+	"wizUtility.h"
+	"wizGame.h"
+	<string>
+	<vector>
+	<fstream>
+
+1283321777 d:\test\include\wiztexturemanager.h
+	"SDL.h"
+	"SDL_Image.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<map>
+	<fstream>
+
+1282496140 d:\test\include\wizutility.h
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1279882582 source:d:\test\src\wizfontmanager.cpp
+	"wizFontManager.h"
+
+1281944616 d:\test\include\wizfontmanager.h
+	"wizFont.h"
+	<string>
+	<map>
+
+1280992768 source:d:\test\src\wizfrustum.cpp
+	"wizFrustum.h"
+
+1283774314 source:d:\test\src\wizgame.cpp
+	"wizGame.h"
+
+1283771692 d:\test\include\wizgame.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1282381788 d:\test\include\wizinputmanager.h
+	"DGE_Input.h"
+	"wizVector2.h"
+	"wizGame.h"
+	<vector>
+
+1284529024 d:\test\include\wizstatemanager.h
+	"wizStateGroup.h"
+	<map>
+	<string>
+
+1284528647 d:\test\include\wizstategroup.h
+	"wizState.h"
+	<map>
+	<string>
+
+1283360854 d:\test\include\wizstate.h
+
+1280349216 source:d:\test\src\wizgameentity.cpp
+	"wizGameEntity.h"
+
+1280144274 d:\test\include\wizgameentity.h
+	"wizUtility.h"
+	<string>
+
+1280177177 source:d:\test\src\wizgesture.cpp
+	"wizGesture.h"
+
+1280177165 d:\test\include\wizgesture.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1280054210 d:\test\include\wizgestureobject.h
+	"wizUtility.h"
+	<string>
+
+1282220452 source:d:\test\src\wizgesturemanager.cpp
+	"wizGestureManager.h"
+
+1279870822 d:\test\include\wizgesturemanager.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1280174014 source:d:\test\src\wizgestureobject.cpp
+	"wizGestureObject.h"
+
+1282381788 source:d:\test\src\wizinputmanager.cpp
+	"wizInputManager.h"
+
+1280992956 source:d:\test\src\wizintersectionpoint.cpp
+	"wizIntersectionPoint.h"
+
+1283327494 source:d:\test\src\wizlight.cpp
+	"wizLight.h"
+
+1280218464 d:\test\include\wizlight.h
+	"wizColour.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282042588 source:d:\test\src\wizlightmanager.cpp
+	"wizLightManager.h"
+
+1282042580 d:\test\include\wizlightmanager.h
+	"wizLight.h"
+	"wizUtility.h"
+	<vector>
+	<string>
+
+1283838525 source:d:\test\src\wizmaterial.cpp
+	"wizMaterial.h"
+
+1283838358 d:\test\include\wizmaterial.h
+	"wizMaterialStage.h"
+	"wizColour.h"
+	"wizUtility.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<fstream>
+
+1281906743 d:\test\include\wizmaterialstage.h
+	"wizUtility.h"
+	"wizTextureManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<string>
+	<fstream>
+
+1280055166 source:d:\test\src\wizmaterialmanager.cpp
+	"wizMaterialManager.h"
+
+1281944490 d:\test\include\wizmaterialmanager.h
+	"wizMaterial.h"
+
+1284022165 source:d:\test\src\wizmaterialstage.cpp
+	"wizMaterialStage.h"
+
+1283945431 source:d:\test\src\wizmesh.cpp
+	"wizMesh.h"
+
+1283945254 d:\test\include\wizmesh.h
+	"wizUtility.h"
+	"wizMeshAnimation.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<vector>
+	<fstream>
+
+1283339109 d:\test\include\wizmeshanimation.h
+	"wizMeshFrame.h"
+	"wizProgress.h"
+	<vector>
+	<fstream>
+
+1283339069 d:\test\include\wizmeshframe.h
+	"wizUtility.h"
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizProgress.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<fstream>
+
+1284366838 source:d:\test\src\wizmeshentity.cpp
+	"wizMeshEntity.h"
+
+1284122852 d:\test\include\wizmeshentity.h
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+	"wizGame.h"
+	"wizRay.h"
+	"wizMeshFrame.h"
+	"wizMeshManager.h"
+	"wizIntersectionPoint.h"
+	"wizTriangle.h"
+	"wizMatrix.h"
+	"wizPhysicsBody.h"
+	"wizPhysicsJoint.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1280341234 d:\test\include\wizmeshmanager.h
+	"wizMesh.h"
+	<map>
+
+1279972868 source:d:\test\src\wizmeshmanager.cpp
+	"wizMeshManager.h"
+
+1284552241 source:d:\test\src\wizmeshrenderer.cpp
+	"wizMeshRenderer.h"
+
+1284552187 d:\test\include\wizmeshrenderer.h
+	"wizRenderer.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialStage.h"
+	"wizMaterialManager.h"
+	"wizTextureManager.h"
+	"wizLightManager.h"
+	"wizCamera3D.h"
+	"wizRay.h"
+	"wizBoundingBox.h"
+	<vector>
+	<algorithm>
+
+1280231976 d:\test\include\wizrenderer.h
+
+1280230838 source:d:\test\src\wizparticle.cpp
+	"wizParticle.h"
+
+1280245978 d:\test\include\wizparticle.h
+	"wizVector3.h"
+	"wizSpriteEntity.h"
+
+1284622220 d:\test\include\wizspriteentity.h
+	"wizGameEntity.h"
+	"wizVector2.h"
+	"wizGame.h"
+	"wizSpriteFrame.h"
+	"wizSpriteSheetManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282715127 d:\test\include\wizspriteframe.h
+	"wizUtility.h"
+	"wizVector2.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282683083 d:\test\include\wizspritesheetmanager.h
+	"wizSpriteSheet.h"
+	<map>
+
+1284022195 d:\test\include\wizspritesheet.h
+	"wizSprite.h"
+	"wizTextureManager.h"
+	<map>
+
+1282682120 d:\test\include\wizsprite.h
+	"wizUtility.h"
+	"wizSpriteAnimation.h"
+	<map>
+	<string>
+	<fstream>
+
+1280143652 d:\test\include\wizspriteanimation.h
+	"wizUtility.h"
+	"wizSpriteFrame.h"
+	<vector>
+	<string>
+	<fstream>
+
+1282683121 source:d:\test\src\wizparticle2d.cpp
+	"wizParticle2D.h"
+
+1280246098 d:\test\include\wizparticle2d.h
+	"wizVector2.h"
+	"wizParticle.h"
+
+1281191217 source:d:\test\src\wizparticle3d.cpp
+	"wizParticle3D.h"
+
+1280349726 d:\test\include\wizparticle3d.h
+	"wizVector3.h"
+	"wizParticle.h"
+	"wizCamera3D.h"
+	"wizUtility.h"
+
+1280229434 source:d:\test\src\wizparticleemitter.cpp
+	"wizParticleEmitter.h"
+
+1280229428 d:\test\include\wizparticleemitter.h
+	"wizParticle.h"
+
+1280349726 source:d:\test\src\wizparticlesystem.cpp
+	"wizParticleSystem.h"
+
+1280245098 d:\test\include\wizparticlesystem.h
+	"wizParticleEmitter.h"
+	"wizSpriteRenderer.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1284552310 d:\test\include\wizspriterenderer.h
+	"wizRenderer.h"
+	"wizTextureManager.h"
+	"wizSpriteEntity.h"
+	"wizParticle.h"
+	<vector>
+	<map>
+
+1280349726 source:d:\test\src\wizparticlesystem2d.cpp
+	"wizParticleSystem2D.h"
+
+1280246086 d:\test\include\wizparticlesystem2d.h
+	"wizParticleSystem.h"
+	"wizParticle2D.h"
+
+1280578249 source:d:\test\src\wizparticlesystem3d.cpp
+	"wizParticleSystem3D.h"
+
+1280399058 d:\test\include\wizparticlesystem3d.h
+	"wizParticleSystem.h"
+	"wizParticle3D.h"
+	<vector>
+
+1280748226 source:d:\test\src\wizplane.cpp
+	"wizPlane.h"
+
+1280349626 source:d:\test\src\wizpointlight.cpp
+	"wizPointLight.h"
+
+1280218292 d:\test\include\wizpointlight.h
+	"wizLight.h"
+
+1280991667 source:d:\test\src\wizray.cpp
+	"wizRay.h"
+
+1280649391 source:d:\test\src\wizscenemanager.cpp
+	"wizSceneManager.h"
+
+1280208082 d:\test\include\wizscenemanager.h
+	"wizGameEntity.h"
+	"wizCamera.h"
+	<vector>
+
+1280646195 source:d:\test\src\wizscenemanagerbvh.cpp
+	"wizSceneManagerBVH.h"
+
+1280682234 d:\test\include\wizscenemanagerbvh.h
+	"wizSceneManager.h"
+	"wizSceneManagerNode.h"
+
+1282207409 d:\test\include\wizscenemanagernode.h
+	"wizSceneManager.h"
+	"wizBoundingBox.h"
+	"wizCamera3D.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	<vector>
+
+1280833431 source:d:\test\src\wizscenemanagerkdtree.cpp
+	"wizSceneManagerKDTree.h"
+
+1280682234 d:\test\include\wizscenemanagerkdtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280208310 source:d:\test\src\wizscenemanagerlayered.cpp
+	"wizSceneManagerLayered.h"
+
+1280208386 d:\test\include\wizscenemanagerlayered.h
+	"wizSceneManager.h"
+	"wizGameEntity.h"
+	"wizSpriteEntity.h"
+	<vector>
+
+1282113460 source:d:\test\src\wizscenemanagernode.cpp
+	"wizSceneManagerNode.h"
+
+1282460217 source:d:\test\src\wizscenemanageroctree.cpp
+	"wizSceneManagerOctree.h"
+	<fstream>
+
+1280682234 d:\test\include\wizscenemanageroctree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1279830254 source:d:\test\src\wizsound.cpp
+	"wizSound.h"
+
+1279830236 d:\test\include\wizsound.h
+	"DGE_Sound.h"
+	<map>
+	<string>
+
+1284442761 source:d:\test\src\wizsoundmanager.cpp
+	"wizSoundManager.h"
+
+1283498445 d:\test\include\wizsoundmanager.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<map>
+	<string>
+	<vector>
+
+1283327494 source:d:\test\src\wizspotlight.cpp
+	"wizSpotLight.h"
+
+1280218948 d:\test\include\wizspotlight.h
+	"wizLight.h"
+
+1282713878 source:d:\test\src\wizsprite.cpp
+	"wizSprite.h"
+
+1280143652 source:d:\test\src\wizspriteanimation.cpp
+	"wizSpriteAnimation.h"
+
+1284624232 source:d:\test\src\wizspriteentity.cpp
+	"wizSpriteEntity.h"
+
+1282715125 source:d:\test\src\wizspriteframe.cpp
+	"wizSpriteFrame.h"
+
+1284624190 source:d:\test\src\wizspriterenderer.cpp
+	"wizSpriteRenderer.h"
+
+1284022144 source:d:\test\src\wizspritesheet.cpp
+	"wizSpritesheet.h"
+
+1279863838 source:d:\test\src\wizspritesheetmanager.cpp
+	"wizSpritesheetManager.h"
+
+1279781886 source:d:\test\src\wizstate.cpp
+	"wizState.h"
+
+1283360923 source:d:\test\src\wizstategroup.cpp
+	"wizStateGroup.h"
+
+1284529475 source:d:\test\src\wizstatemanager.cpp
+	"wizStateManager.h"
+
+1283379310 source:d:\test\src\wiztexturemanager.cpp
+	"wizTextureManager.h"
+
+1282496116 source:d:\test\src\wizutility.cpp
+	"wizUtility.h"
+
+1283340629 source:d:\test\src\wizvector2.cpp
+	"wizVector2.h"
+
+1281452278 source:d:\test\src\wizvector3.cpp
+	"wizVector3.h"
+
+1283063567 source:d:\test\src\wizmeshanimation.cpp
+	"wizMeshAnimation.h"
+
+1283339164 source:d:\test\src\wizmeshframe.cpp
+	"wizMeshFrame.h"
+
+1284624050 source:d:\test\main.cpp
+	"wizGame.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizTextureManager.h"
+	"wizMeshEntity.h"
+	"wizMesh.h"
+	"wizMeshManager.h"
+	"wizMeshRenderer.h"
+	"wizCamera3D.h"
+	"wizCamera2D.h"
+	"wizScene.h"
+	"wizSceneManagerQuadtree.h"
+	"wizPhysicsController.h"
+	"wizBlob.h"
+	"wizBlobShadowRenderer.h"
+	"wizListUtility.h"
+	"wizPrimitives.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizScalableHUD.h"
+	"wizFadeToEffect.h"
+	"wizFadeChain.h"
+	"wizProgressBar.h"
+	"wizFadeWipeEffect.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	"wizSoundManager.h"
+	"wizSoundController3D.h"
+	"wizFolder.h"
+	"wizProjectedShadowRenderer.h"
+	"wizMenuRadial.h"
+	"wizMenuItemText.h"
+	"wizRenderer.h"
+	"wizMenuSlide.h"
+	"wizMenuItemIcon.h"
+	<time.h>
+	<map>
+	<string>
+	<unistd.h>
+
+1283338587 d:\test\include\wizscene.h
+	"wizMesh.h"
+	"wizMeshEntity.h"
+	"wizMeshManager.h"
+	"wizMaterialManager.h"
+	"wizUtility.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<string>
+	<vector>
+	<fstream>
+
+1283855728 source:d:\test\src\wizscene.cpp
+	"wizScene.h"
+
+1283338587 c:\documents and settings\kurt.kruger\desktop\test\include\wizscene.h
+	"wizMesh.h"
+	"wizMeshEntity.h"
+	"wizMeshManager.h"
+	"wizMaterialManager.h"
+	"wizUtility.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<string>
+	<vector>
+	<fstream>
+
+1283855728 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscene.cpp
+	"wizScene.h"
+
+1282484169 source:c:\documents and settings\kurt.kruger\desktop\test\src\wiztriangle.cpp
+	"wizTriangle.h"
+
+1281343572 c:\documents and settings\kurt.kruger\desktop\test\include\wiztriangle.h
+	"wizIntersectionPoint.h"
+	"wizVector3.h"
+	"wizRay.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282484169 source:d:\test\src\wiztriangle.cpp
+	"wizTriangle.h"
+
+1281343572 d:\test\include\wiztriangle.h
+	"wizIntersectionPoint.h"
+	"wizVector3.h"
+	"wizRay.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282460234 source:d:\test\src\wizscenemanagerquadtree.cpp
+	"wizSceneManagerQuadTree.h"
+
+1280831727 d:\test\include\wizscenemanagerquadtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1280913859 source:d:\test\src\wizphysicsconstraint.cpp
+	"wizPhysicsConstraint.h"
+
+1280913816 d:\test\include\wizphysicsconstraint.h
+	"wizPhysicsParticle.h"
+
+1280916120 d:\test\include\wizphysicsparticle.h
+	"wizVector3.h"
+
+1281034504 source:d:\test\src\wizphysicsmesh.cpp
+	"wizPhysicsMesh.h"
+
+1281034450 d:\test\include\wizphysicsmesh.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+
+1280940442 source:d:\test\src\wizphysicsparticle.cpp
+	"wizPhysicsParticle.h"
+
+1280929761 source:d:\test\src\wizphysicscollisionparticle.cpp
+	"wizPhysicsCollisionParticle.h"
+
+1280929767 d:\test\include\wizphysicscollisionparticle.h
+	"wizPhysicsParticle.h"
+	"wizPhysicsConstraint.h"
+
+1284123409 source:d:\test\src\wizphysicscontroller.cpp
+	"wizPhysicsController.h"
+	"wizGame.h"
+
+1282884748 d:\test\include\wizphysicscontroller.h
+	"wizVector3.h"
+	"wizMeshEntity.h"
+	<vector>
+	<string>
+	<map>
+
+1280831727 c:\documents and settings\kurt.kruger\desktop\test\include\wizscenemanagerquadtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1282884748 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicscontroller.h
+	"wizVector3.h"
+	"wizMeshEntity.h"
+	<vector>
+	<string>
+	<map>
+
+1281071889 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsmesh.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+
+1280916120 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsparticle.h
+	"wizVector3.h"
+
+1280929767 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicscollisionparticle.h
+	"wizPhysicsParticle.h"
+	"wizPhysicsConstraint.h"
+
+1280913816 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsconstraint.h
+	"wizPhysicsParticle.h"
+
+1282460234 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscenemanagerquadtree.cpp
+	"wizSceneManagerQuadTree.h"
+
+1281706127 c:\documents and settings\kurt.kruger\desktop\test\include\wizmatrix.h
+	"wizVector3.h"
+
+1281706072 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmatrix.cpp
+	"wizMatrix.h"
+
+1281071887 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicsmesh.cpp
+	"wizPhysicsMesh.h"
+
+1281706072 source:d:\test\src\wizmatrix.cpp
+	"wizMatrix.h"
+
+1281706127 d:\test\include\wizmatrix.h
+	"wizVector3.h"
+
+1284371570 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsbody.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	"wizMatrix.h"
+	"wizUtility.h"
+	<string>
+
+1284374200 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicsbody.cpp
+	"wizPhysicsBody.h"
+
+1284371570 d:\test\include\wizphysicsbody.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	"wizMatrix.h"
+	"wizUtility.h"
+	<string>
+
+1284441329 source:d:\test\src\wizphysicsbody.cpp
+	"wizPhysicsBody.h"
+
+1284123409 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicscontroller.cpp
+	"wizPhysicsController.h"
+	"wizGame.h"
+
+1282312980 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuibuttonevent.cpp
+	"wizUIButtonEvent.h"
+
+1282312981 c:\documents and settings\kurt.kruger\desktop\test\include\wizuibuttonevent.h
+
+1282370411 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuicomponent.cpp
+	"wizUIComponent.h"
+
+1282368785 c:\documents and settings\kurt.kruger\desktop\test\include\wizuicomponent.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizSpriteSheetManager.h"
+	"wizSpriteRenderer.h"
+	"wizUITouchEvent.h"
+	"wizUIButtonEvent.h"
+	<string>
+	<vector>
+
+1282307557 c:\documents and settings\kurt.kruger\desktop\test\include\wizuitouchevent.h
+	"wizUIEvent.h"
+	"wizVector2.h"
+
+1282298349 c:\documents and settings\kurt.kruger\desktop\test\include\wizuievent.h
+
+1282298353 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuievent.cpp
+	"wizUIEvent.h"
+
+1282307602 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuitouchevent.cpp
+	"wizUITouchEvent.h"
+
+1282312980 source:d:\test\src\wizuibuttonevent.cpp
+	"wizUIButtonEvent.h"
+
+1282312981 d:\test\include\wizuibuttonevent.h
+
+1282370411 source:d:\test\src\wizuicomponent.cpp
+	"wizUIComponent.h"
+
+1282368785 d:\test\include\wizuicomponent.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizSpriteSheetManager.h"
+	"wizSpriteRenderer.h"
+	"wizUITouchEvent.h"
+	"wizUIButtonEvent.h"
+	<string>
+	<vector>
+
+1282307557 d:\test\include\wizuitouchevent.h
+	"wizUIEvent.h"
+	"wizVector2.h"
+
+1282298349 d:\test\include\wizuievent.h
+
+1282298353 source:d:\test\src\wizuievent.cpp
+	"wizUIEvent.h"
+
+1282307602 source:d:\test\src\wizuitouchevent.cpp
+	"wizUITouchEvent.h"
+
+1282310802 source:d:\test\src\wizuitouchdragevent.cpp
+	"wizUITouchDragEvent.h"
+
+1282310802 d:\test\include\wizuitouchdragevent.h
+
+1283490344 source:d:\test\src\wizuibutton.cpp
+	"wizUIButton.h"
+
+1283490300 d:\test\include\wizuibutton.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282370400 source:d:\test\src\wizuipanel.cpp
+	"wizUIPanel.h"
+
+1282368938 d:\test\include\wizuipanel.h
+	"wizUIComponent.h"
+	<string>
+
+1283490382 source:d:\test\src\wizuicheckbox.cpp
+	"wizUICheckBox.h"
+
+1283490365 d:\test\include\wizuicheckbox.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282377118 source:d:\test\src\wizuislider.cpp
+	"wizUISlider.h"
+
+1282378516 d:\test\include\wizuislider.h
+	"wizUIComponent.h"
+
+1284022235 source:d:\test\src\wizblob.cpp
+	"wizBlob.h"
+
+1284022227 d:\test\include\wizblob.h
+	"wizVector3.h"
+	"wizTextureManager.h"
+	<string>
+
+1284371310 source:d:\test\src\wizblobshadowrenderer.cpp
+	"wizBlobShadowRenderer.h"
+
+1284010787 d:\test\include\wizblobshadowrenderer.h
+	"wizBlob.h"
+	"wizVector3.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizTriangle.h"
+	"wizTextureManager.h"
+	<vector>
+
+1282885321 source:d:\test\src\wizlistutility.cpp
+	"wizListUtility.h"
+
+1282885200 d:\test\include\wizlistutility.h
+	"wizGameEntity.h"
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1284022235 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizblob.cpp
+	"wizBlob.h"
+
+1284022227 c:\documents and settings\kurt.kruger\desktop\test\include\wizblob.h
+	"wizVector3.h"
+	"wizTextureManager.h"
+	<string>
+
+1282885321 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizlistutility.cpp
+	"wizListUtility.h"
+
+1282885200 c:\documents and settings\kurt.kruger\desktop\test\include\wizlistutility.h
+	"wizGameEntity.h"
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1283490344 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuibutton.cpp
+	"wizUIButton.h"
+
+1283490300 c:\documents and settings\kurt.kruger\desktop\test\include\wizuibutton.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1283490382 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuicheckbox.cpp
+	"wizUICheckBox.h"
+
+1283490365 c:\documents and settings\kurt.kruger\desktop\test\include\wizuicheckbox.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282370400 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuipanel.cpp
+	"wizUIPanel.h"
+
+1282368938 c:\documents and settings\kurt.kruger\desktop\test\include\wizuipanel.h
+	"wizUIComponent.h"
+	<string>
+
+1282377118 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuislider.cpp
+	"wizUISlider.h"
+
+1282378516 c:\documents and settings\kurt.kruger\desktop\test\include\wizuislider.h
+	"wizUIComponent.h"
+
+1282310802 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizuitouchdragevent.cpp
+	"wizUITouchDragEvent.h"
+
+1282310802 c:\documents and settings\kurt.kruger\desktop\test\include\wizuitouchdragevent.h
+
+1284010787 c:\documents and settings\kurt.kruger\desktop\test\include\wizblobshadowrenderer.h
+	"wizBlob.h"
+	"wizVector3.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizTriangle.h"
+	"wizTextureManager.h"
+	<vector>
+
+1284371310 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizblobshadowrenderer.cpp
+	"wizBlobShadowRenderer.h"
+
+1283375915 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizprimitives.cpp
+	"wizPrimitives.h"
+
+1283368541 c:\documents and settings\kurt.kruger\desktop\test\include\wizprimitives.h
+	"wizVector2.h"
+	"wizColour.h"
+
+1284619608 d:\test\include\wizprimitives.h
+	"wizVector2.h"
+	"wizColour.h"
+
+1284620119 source:d:\test\src\wizprimitives.cpp
+	"wizPrimitives.h"
+
+1283791122 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizscalablehud.cpp
+	"wizScalableHUD.h"
+
+1283775084 c:\documents and settings\kurt.kruger\desktop\test\include\wizscalablehud.h
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+
+1284400770 source:d:\test\src\wizscalablehud.cpp
+	"wizScalableHUD.h"
+
+1283775084 d:\test\include\wizscalablehud.h
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+
+1282929021 d:\test\include\wizfadeineffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282929010 d:\test\include\wizfadeeffect.h
+	"wizInputManager.h"
+
+1282941245 source:d:\test\src\wizfadeeffect.cpp
+	"wizFadeEffect.h"
+
+1283076082 source:d:\test\src\wizfadeineffect.cpp
+	"wizFadeInEffect.h"
+
+1283084360 d:\test\include\wizfadechain.h
+	"wizFadeEffect.h"
+	<vector>
+
+1283084358 source:d:\test\src\wizfadechain.cpp
+	"wizFadeChain.h"
+
+1283084358 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfadechain.cpp
+	"wizFadeChain.h"
+
+1283084360 c:\documents and settings\kurt.kruger\desktop\test\include\wizfadechain.h
+	"wizFadeEffect.h"
+	<vector>
+
+1282929010 c:\documents and settings\kurt.kruger\desktop\test\include\wizfadeeffect.h
+	"wizInputManager.h"
+
+1282941245 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfadeeffect.cpp
+	"wizFadeEffect.h"
+
+1283076082 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfadeineffect.cpp
+	"wizFadeInEffect.h"
+
+1283232695 c:\documents and settings\kurt.kruger\desktop\test\include\wizfadeineffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1283240043 d:\test\include\wizprogressbar.h
+	"wizVector2.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+
+1284621824 source:d:\test\src\wizprogressbar.cpp
+	"wizProgressBar.h"
+
+1283240043 c:\documents and settings\kurt.kruger\desktop\test\include\wizprogressbar.h
+	"wizVector2.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+
+1283240075 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizprogressbar.cpp
+	"wizProgressBar.h"
+
+1283241486 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfadewipeeffect.cpp
+	"wizFadeWipeEffect.h"
+
+1283241494 c:\documents and settings\kurt.kruger\desktop\test\include\wizfadewipeeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1283237904 c:\documents and settings\kurt.kruger\desktop\test\include\wizfadetoeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1283237902 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfadetoeffect.cpp
+	"wizFadeToEffect.h"
+
+1283237904 d:\test\include\wizfadetoeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1283241494 d:\test\include\wizfadewipeeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1283237902 source:d:\test\src\wizfadetoeffect.cpp
+	"wizFadeToEffect.h"
+
+1284616862 source:d:\test\src\wizfadewipeeffect.cpp
+	"wizFadeWipeEffect.h"
+
+1283338345 c:\documents and settings\kurt.kruger\desktop\test\include\wizrecording.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1283339046 c:\documents and settings\kurt.kruger\desktop\test\include\wizprogress.h
+	<string>
+
+1283339564 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizprogress.cpp
+	"wizProgress.h"
+
+1283338563 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizrecording.cpp
+	"wizRecording.h"
+
+1283588187 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmenu.cpp
+	"wizMenu.h"
+
+1283588084 c:\documents and settings\kurt.kruger\desktop\test\include\wizmenu.h
+	"wizRenderer.h"
+	"wizMenuItem.h"
+	<vector>
+
+1283360028 c:\documents and settings\kurt.kruger\desktop\test\include\wizmenuitem.h
+	"wizRenderer.h"
+	<string>
+
+1283346179 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmenuitem.cpp
+	"wizMenuItem.h"
+
+1283338345 d:\test\include\wizrecording.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1283339046 d:\test\include\wizprogress.h
+	<string>
+
+1283346179 source:d:\test\src\wizmenuitem.cpp
+	"wizMenuItem.h"
+
+1283360028 d:\test\include\wizmenuitem.h
+	"wizRenderer.h"
+	<string>
+
+1284622764 source:d:\test\src\wizmenuitemtext.cpp
+	"wizMenuItemText.h"
+
+1284401127 d:\test\include\wizmenuitemtext.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1283339564 source:d:\test\src\wizprogress.cpp
+	"wizProgress.h"
+
+1283338563 source:d:\test\src\wizrecording.cpp
+	"wizRecording.h"
+
+1284533633 source:d:\test\src\wizmenu.cpp
+	"wizMenu.h"
+
+1284482088 d:\test\include\wizmenu.h
+	"wizRenderer.h"
+	"wizMenuItem.h"
+	<vector>
+
+1284484390 source:d:\test\src\wizmenusimple.cpp
+	"wizMenuSimple.h"
+
+1283360029 d:\test\include\wizmenusimple.h
+	"wizMenu.h"
+	"wizRenderer.h"
+
+1284382024 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmenuitemtext.cpp
+	"wizMenuItemText.h"
+
+1283360060 c:\documents and settings\kurt.kruger\desktop\test\include\wizmenuitemtext.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	<string>
+
+1283360518 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmenusimple.cpp
+	"wizMenuSimple.h"
+
+1283360029 c:\documents and settings\kurt.kruger\desktop\test\include\wizmenusimple.h
+	"wizMenu.h"
+	"wizRenderer.h"
+
+1283497269 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsoundcontroller.cpp
+	"wizSoundController.h"
+
+1283497293 c:\documents and settings\kurt.kruger\desktop\test\include\wizsoundcontroller.h
+
+1283498413 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsoundcontroller3d.cpp
+	"wizSoundController3D.h"
+
+1283498346 c:\documents and settings\kurt.kruger\desktop\test\include\wizsoundcontroller3d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector3.h"
+	<string>
+	<map>
+
+1283498690 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizsoundcontroller2d.cpp
+	"wizSoundController2D.h"
+
+1283498673 c:\documents and settings\kurt.kruger\desktop\test\include\wizsoundcontroller2d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector2.h"
+	<string>
+	<map>
+
+1283497269 source:d:\test\src\wizsoundcontroller.cpp
+	"wizSoundController.h"
+
+1283497293 d:\test\include\wizsoundcontroller.h
+
+1283498690 source:d:\test\src\wizsoundcontroller2d.cpp
+	"wizSoundController2D.h"
+
+1283498673 d:\test\include\wizsoundcontroller2d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector2.h"
+	<string>
+	<map>
+
+1283498413 source:d:\test\src\wizsoundcontroller3d.cpp
+	"wizSoundController3D.h"
+
+1283498346 d:\test\include\wizsoundcontroller3d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector3.h"
+	<string>
+	<map>
+
+1284484390 source:d:\test\src\wizmenuradial.cpp
+	"wizMenuRadial.h"
+
+1284441938 d:\test\include\wizmenuradial.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1284382318 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizmenuradial.cpp
+	"wizMenuRadial.h"
+
+1284381039 c:\documents and settings\kurt.kruger\desktop\test\include\wizmenuradial.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1284016889 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizconfig.cpp
+	"wizConfig.h"
+
+1284016862 c:\documents and settings\kurt.kruger\desktop\test\include\wizconfig.h
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+	<fstream>
+
+1284021310 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizfolder.cpp
+	"wizFolder.h"
+
+1284020940 c:\documents and settings\kurt.kruger\desktop\test\include\wizfolder.h
+	<unistd.h>
+	<vector>
+	<string>
+
+1284038180 c:\documents and settings\kurt.kruger\desktop\test\include\wizprojectedshadowrenderer.h
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizVector3.h"
+	"wizCamera3D.h"
+	<vector>
+
+1284038602 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizprojectedshadowrenderer.cpp
+	"wizProjectedShadowRenderer.h"
+
+1284125003 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsjoint.h
+	"wizVector3.h"
+	"wizPhysicsBody.h"
+
+1284125854 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicsjoint.cpp
+	"wizPhysicsJoint.h"
+
+1284125003 d:\test\include\wizphysicsjoint.h
+	"wizVector3.h"
+	"wizPhysicsBody.h"
+
+1284020940 d:\test\include\wizfolder.h
+	<unistd.h>
+	<vector>
+	<string>
+
+1284038180 d:\test\include\wizprojectedshadowrenderer.h
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizVector3.h"
+	"wizCamera3D.h"
+	<vector>
+
+1284016889 source:d:\test\src\wizconfig.cpp
+	"wizConfig.h"
+
+1284016862 d:\test\include\wizconfig.h
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+	<fstream>
+
+1284021310 source:d:\test\src\wizfolder.cpp
+	"wizFolder.h"
+
+1284125854 source:d:\test\src\wizphysicsjoint.cpp
+	"wizPhysicsJoint.h"
+
+1284126041 source:d:\test\src\wizphysicsspringjoint.cpp
+	"wizPhysicsSpringJoint.h"
+
+1284126011 d:\test\include\wizphysicsspringjoint.h
+	"wizPhysicsJoint.h"
+
+1284038602 source:d:\test\src\wizprojectedshadowrenderer.cpp
+	"wizProjectedShadowRenderer.h"
+
+1284150694 source:d:\test\src\wizphysicssliderjoint.cpp
+	"wizPhysicsSliderJoint.h"
+
+1284150604 d:\test\include\wizphysicssliderjoint.h
+	"wizPhysicsSpringJoint.h"
+
+1284151896 source:d:\test\src\wizphysicshingejoint.cpp
+	"wizPhysicsHingeJoint.h"
+
+1284151869 d:\test\include\wizphysicshingejoint.h
+	"wizPhysicsJoint.h"
+
+1284151896 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicshingejoint.cpp
+	"wizPhysicsHingeJoint.h"
+
+1284151869 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicshingejoint.h
+	"wizPhysicsJoint.h"
+
+1284150694 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicssliderjoint.cpp
+	"wizPhysicsSliderJoint.h"
+
+1284150604 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicssliderjoint.h
+	"wizPhysicsSpringJoint.h"
+
+1284126011 c:\documents and settings\kurt.kruger\desktop\test\include\wizphysicsspringjoint.h
+	"wizPhysicsJoint.h"
+
+1284126041 source:c:\documents and settings\kurt.kruger\desktop\test\src\wizphysicsspringjoint.cpp
+	"wizPhysicsSpringJoint.h"
+
+1284622770 source:d:\test\src\wizmenuitemicon.cpp
+	"wizMenuItemIcon.h"
+
+1284448177 d:\test\include\wizmenuitemicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284484389 source:d:\test\src\wizmenuslide.cpp
+	"wizMenuSlide.h"
+
+1284482194 d:\test\include\wizmenuslide.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1284558982 source:d:\test\src\wizmenuitemirregularicon.cpp
+	"wizMenuItemIrregularIcon.h"
+
+1284558320 d:\test\include\wizmenuitemirregularicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284022235 source:d:\offroad\src\wizblob.cpp
+	"wizBlob.h"
+
+1284022227 d:\offroad\include\wizblob.h
+	"wizVector3.h"
+	"wizTextureManager.h"
+	<string>
+
+1281451955 d:\offroad\include\wizvector3.h
+	<math.h>
+	<cstdlib>
+
+1283321777 d:\offroad\include\wiztexturemanager.h
+	"SDL.h"
+	"SDL_Image.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<map>
+	<fstream>
+
+1285158459 source:d:\offroad\src\wizblobshadowrenderer.cpp
+	"wizBlobShadowRenderer.h"
+
+1285158520 d:\offroad\include\wizblobshadowrenderer.h
+	"wizBlob.h"
+	"wizVector3.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizTriangle.h"
+	"wizTextureManager.h"
+	"wizMaterial.h"
+	"wizMaterialManager.h"
+	<vector>
+
+1280144274 d:\offroad\include\wizgameentity.h
+	"wizUtility.h"
+	<string>
+
+1282496140 d:\offroad\include\wizutility.h
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1285365861 d:\offroad\include\wizmeshentity.h
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+	"wizGame.h"
+	"wizRay.h"
+	"wizMeshFrame.h"
+	"wizMeshManager.h"
+	"wizIntersectionPoint.h"
+	"wizTriangle.h"
+	"wizMatrix.h"
+	"wizPhysicsBody.h"
+	"wizPhysicsJoint.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1283580046 d:\offroad\include\wizboundingbox.h
+	"wizBoundingVolume.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<limits>
+
+1281079002 d:\offroad\include\wizboundingvolume.h
+	"wizVector3.h"
+	"wizIntersectionPoint.h"
+	"wizRay.h"
+
+1280992954 d:\offroad\include\wizintersectionpoint.h
+	"wizVector3.h"
+	"wizRay.h"
+	<cstdlib>
+
+1280991652 d:\offroad\include\wizray.h
+	"wizVector3.h"
+	<cstdlib>
+
+1283771692 d:\offroad\include\wizgame.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1282381788 d:\offroad\include\wizinputmanager.h
+	"DGE_Input.h"
+	"wizVector2.h"
+	"wizGame.h"
+	<vector>
+
+1283340631 d:\offroad\include\wizvector2.h
+	<math.h>
+
+1284529024 d:\offroad\include\wizstatemanager.h
+	"wizStateGroup.h"
+	<map>
+	<string>
+
+1284528647 d:\offroad\include\wizstategroup.h
+	"wizState.h"
+	<map>
+	<string>
+
+1283360854 d:\offroad\include\wizstate.h
+
+1283338345 d:\offroad\include\wizrecording.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1283339046 d:\offroad\include\wizprogress.h
+	<string>
+
+1283339069 d:\offroad\include\wizmeshframe.h
+	"wizUtility.h"
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizProgress.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<fstream>
+
+1280341234 d:\offroad\include\wizmeshmanager.h
+	"wizMesh.h"
+	<map>
+
+1283945254 d:\offroad\include\wizmesh.h
+	"wizUtility.h"
+	"wizMeshAnimation.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<vector>
+	<fstream>
+
+1283339109 d:\offroad\include\wizmeshanimation.h
+	"wizMeshFrame.h"
+	"wizProgress.h"
+	<vector>
+	<fstream>
+
+1285158405 d:\offroad\include\wiztriangle.h
+	"wizIntersectionPoint.h"
+	"wizVector3.h"
+	"wizRay.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1281706127 d:\offroad\include\wizmatrix.h
+	"wizVector3.h"
+
+1284371570 d:\offroad\include\wizphysicsbody.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	"wizMatrix.h"
+	"wizUtility.h"
+	<string>
+
+1284125003 d:\offroad\include\wizphysicsjoint.h
+	"wizVector3.h"
+	"wizPhysicsBody.h"
+
+1283580118 source:d:\offroad\src\wizboundingbox.cpp
+	"wizBoundingBox.h"
+
+1280221836 source:d:\offroad\src\wizboundingvolume.cpp
+	"wizBoundingVolume.h"
+
+1282683183 source:d:\offroad\src\wizcamera.cpp
+	"wizCamera.h"
+
+1282683183 d:\offroad\include\wizcamera.h
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1281036818 source:d:\offroad\src\wizcamera2d.cpp
+	"wizCamera2D.h"
+
+1280382726 d:\offroad\include\wizcamera2d.h
+	"wizCamera.h"
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1285367728 source:d:\offroad\src\wizcamera3d.cpp
+	"wizCamera3D.h"
+	<fstream>
+
+1285367674 d:\offroad\include\wizcamera3d.h
+	"wizCamera.h"
+	"wizVector3.h"
+	"wizFrustum.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<math.h>
+
+1280992769 d:\offroad\include\wizfrustum.h
+	"wizPlane.h"
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	<cstdlib>
+
+1280122442 d:\offroad\include\wizplane.h
+	"wizVector3.h"
+
+1279869714 source:d:\offroad\src\wizcanvas.cpp
+	"wizCanvas.h"
+
+1279869704 d:\offroad\include\wizcanvas.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<map>
+	<string>
+
+1282548780 source:d:\offroad\src\wizcolour.cpp
+	"wizColour.h"
+
+1282548831 d:\offroad\include\wizcolour.h
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+
+1284016889 source:d:\offroad\src\wizconfig.cpp
+	"wizConfig.h"
+
+1284016862 d:\offroad\include\wizconfig.h
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+	<fstream>
+
+1283084358 source:d:\offroad\src\wizfadechain.cpp
+	"wizFadeChain.h"
+
+1283084360 d:\offroad\include\wizfadechain.h
+	"wizFadeEffect.h"
+	<vector>
+
+1282929010 d:\offroad\include\wizfadeeffect.h
+	"wizInputManager.h"
+
+1282941245 source:d:\offroad\src\wizfadeeffect.cpp
+	"wizFadeEffect.h"
+
+1283237902 source:d:\offroad\src\wizfadetoeffect.cpp
+	"wizFadeToEffect.h"
+
+1283237904 d:\offroad\include\wizfadetoeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284619608 d:\offroad\include\wizprimitives.h
+	"wizVector2.h"
+	"wizColour.h"
+
+1284616862 source:d:\offroad\src\wizfadewipeeffect.cpp
+	"wizFadeWipeEffect.h"
+
+1283241494 d:\offroad\include\wizfadewipeeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284021310 source:d:\offroad\src\wizfolder.cpp
+	"wizFolder.h"
+
+1284020940 d:\offroad\include\wizfolder.h
+	<unistd.h>
+	<vector>
+	<string>
+
+1284199671 source:d:\offroad\src\wizfont.cpp
+	"wizFont.h"
+	<fstream>
+	<iostream>
+
+1284199319 d:\offroad\include\wizfont.h
+	"wizTextureManager.h"
+	"wizVector2.h"
+	"wizUtility.h"
+	"wizGame.h"
+	<string>
+	<vector>
+	<fstream>
+
+1279882582 source:d:\offroad\src\wizfontmanager.cpp
+	"wizFontManager.h"
+
+1281944616 d:\offroad\include\wizfontmanager.h
+	"wizFont.h"
+	<string>
+	<map>
+
+1280992768 source:d:\offroad\src\wizfrustum.cpp
+	"wizFrustum.h"
+
+1283774314 source:d:\offroad\src\wizgame.cpp
+	"wizGame.h"
+
+1280349216 source:d:\offroad\src\wizgameentity.cpp
+	"wizGameEntity.h"
+
+1282220452 source:d:\offroad\src\wizgesturemanager.cpp
+	"wizGestureManager.h"
+
+1279870822 d:\offroad\include\wizgesturemanager.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1280054210 d:\offroad\include\wizgestureobject.h
+	"wizUtility.h"
+	<string>
+
+1280174014 source:d:\offroad\src\wizgestureobject.cpp
+	"wizGestureObject.h"
+
+1282381788 source:d:\offroad\src\wizinputmanager.cpp
+	"wizInputManager.h"
+
+1280992956 source:d:\offroad\src\wizintersectionpoint.cpp
+	"wizIntersectionPoint.h"
+
+1283327494 source:d:\offroad\src\wizlight.cpp
+	"wizLight.h"
+
+1280218464 d:\offroad\include\wizlight.h
+	"wizColour.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282042588 source:d:\offroad\src\wizlightmanager.cpp
+	"wizLightManager.h"
+
+1282042580 d:\offroad\include\wizlightmanager.h
+	"wizLight.h"
+	"wizUtility.h"
+	<vector>
+	<string>
+
+1282885321 source:d:\offroad\src\wizlistutility.cpp
+	"wizListUtility.h"
+
+1282885200 d:\offroad\include\wizlistutility.h
+	"wizGameEntity.h"
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1284891189 source:d:\offroad\src\wizmaterial.cpp
+	"wizMaterial.h"
+
+1283838358 d:\offroad\include\wizmaterial.h
+	"wizMaterialStage.h"
+	"wizColour.h"
+	"wizUtility.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<fstream>
+
+1281906743 d:\offroad\include\wizmaterialstage.h
+	"wizUtility.h"
+	"wizTextureManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<string>
+	<fstream>
+
+1280055166 source:d:\offroad\src\wizmaterialmanager.cpp
+	"wizMaterialManager.h"
+
+1281944490 d:\offroad\include\wizmaterialmanager.h
+	"wizMaterial.h"
+
+1284891186 source:d:\offroad\src\wizmaterialstage.cpp
+	"wizMaterialStage.h"
+
+1281706072 source:d:\offroad\src\wizmatrix.cpp
+	"wizMatrix.h"
+
+1284533633 source:d:\offroad\src\wizmenu.cpp
+	"wizMenu.h"
+
+1284482088 d:\offroad\include\wizmenu.h
+	"wizRenderer.h"
+	"wizMenuItem.h"
+	<vector>
+
+1280231976 d:\offroad\include\wizrenderer.h
+
+1283360028 d:\offroad\include\wizmenuitem.h
+	"wizRenderer.h"
+	<string>
+
+1283346179 source:d:\offroad\src\wizmenuitem.cpp
+	"wizMenuItem.h"
+
+1284622770 source:d:\offroad\src\wizmenuitemicon.cpp
+	"wizMenuItemIcon.h"
+
+1284448177 d:\offroad\include\wizmenuitemicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1283775084 d:\offroad\include\wizscalablehud.h
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+
+1284622220 d:\offroad\include\wizspriteentity.h
+	"wizGameEntity.h"
+	"wizVector2.h"
+	"wizGame.h"
+	"wizSpriteFrame.h"
+	"wizSpriteSheetManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282715127 d:\offroad\include\wizspriteframe.h
+	"wizUtility.h"
+	"wizVector2.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282683083 d:\offroad\include\wizspritesheetmanager.h
+	"wizSpriteSheet.h"
+	<map>
+
+1284022195 d:\offroad\include\wizspritesheet.h
+	"wizSprite.h"
+	"wizTextureManager.h"
+	<map>
+
+1282682120 d:\offroad\include\wizsprite.h
+	"wizUtility.h"
+	"wizSpriteAnimation.h"
+	<map>
+	<string>
+	<fstream>
+
+1280143652 d:\offroad\include\wizspriteanimation.h
+	"wizUtility.h"
+	"wizSpriteFrame.h"
+	<vector>
+	<string>
+	<fstream>
+
+1284552310 d:\offroad\include\wizspriterenderer.h
+	"wizRenderer.h"
+	"wizTextureManager.h"
+	"wizSpriteEntity.h"
+	"wizParticle.h"
+	<vector>
+	<map>
+
+1280245978 d:\offroad\include\wizparticle.h
+	"wizVector3.h"
+	"wizSpriteEntity.h"
+
+1284558982 source:d:\offroad\src\wizmenuitemirregularicon.cpp
+	"wizMenuItemIrregularIcon.h"
+
+1284558320 d:\offroad\include\wizmenuitemirregularicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284622764 source:d:\offroad\src\wizmenuitemtext.cpp
+	"wizMenuItemText.h"
+
+1284401127 d:\offroad\include\wizmenuitemtext.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284484390 source:d:\offroad\src\wizmenuradial.cpp
+	"wizMenuRadial.h"
+
+1284441938 d:\offroad\include\wizmenuradial.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1284484390 source:d:\offroad\src\wizmenusimple.cpp
+	"wizMenuSimple.h"
+
+1283360029 d:\offroad\include\wizmenusimple.h
+	"wizMenu.h"
+	"wizRenderer.h"
+
+1284484389 source:d:\offroad\src\wizmenuslide.cpp
+	"wizMenuSlide.h"
+
+1284482194 d:\offroad\include\wizmenuslide.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1283945431 source:d:\offroad\src\wizmesh.cpp
+	"wizMesh.h"
+
+1283063567 source:d:\offroad\src\wizmeshanimation.cpp
+	"wizMeshAnimation.h"
+
+1285365864 source:d:\offroad\src\wizmeshentity.cpp
+	"wizMeshEntity.h"
+
+1283339164 source:d:\offroad\src\wizmeshframe.cpp
+	"wizMeshFrame.h"
+
+1279972868 source:d:\offroad\src\wizmeshmanager.cpp
+	"wizMeshManager.h"
+
+1285158559 source:d:\offroad\src\wizmeshrenderer.cpp
+	"wizMeshRenderer.h"
+
+1284552187 d:\offroad\include\wizmeshrenderer.h
+	"wizRenderer.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialStage.h"
+	"wizMaterialManager.h"
+	"wizTextureManager.h"
+	"wizLightManager.h"
+	"wizCamera3D.h"
+	"wizRay.h"
+	"wizBoundingBox.h"
+	<vector>
+	<algorithm>
+
+1280230838 source:d:\offroad\src\wizparticle.cpp
+	"wizParticle.h"
+
+1282683121 source:d:\offroad\src\wizparticle2d.cpp
+	"wizParticle2D.h"
+
+1280246098 d:\offroad\include\wizparticle2d.h
+	"wizVector2.h"
+	"wizParticle.h"
+
+1281191217 source:d:\offroad\src\wizparticle3d.cpp
+	"wizParticle3D.h"
+
+1280349726 d:\offroad\include\wizparticle3d.h
+	"wizVector3.h"
+	"wizParticle.h"
+	"wizCamera3D.h"
+	"wizUtility.h"
+
+1280229434 source:d:\offroad\src\wizparticleemitter.cpp
+	"wizParticleEmitter.h"
+
+1280229428 d:\offroad\include\wizparticleemitter.h
+	"wizParticle.h"
+
+1280349726 source:d:\offroad\src\wizparticlesystem.cpp
+	"wizParticleSystem.h"
+
+1280245098 d:\offroad\include\wizparticlesystem.h
+	"wizParticleEmitter.h"
+	"wizSpriteRenderer.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1280349726 source:d:\offroad\src\wizparticlesystem2d.cpp
+	"wizParticleSystem2D.h"
+
+1280246086 d:\offroad\include\wizparticlesystem2d.h
+	"wizParticleSystem.h"
+	"wizParticle2D.h"
+
+1280578249 source:d:\offroad\src\wizparticlesystem3d.cpp
+	"wizParticleSystem3D.h"
+
+1280399058 d:\offroad\include\wizparticlesystem3d.h
+	"wizParticleSystem.h"
+	"wizParticle3D.h"
+	<vector>
+
+1284991107 source:d:\offroad\src\wizphysicsbody.cpp
+	"wizPhysicsBody.h"
+
+1284823715 source:d:\offroad\src\wizphysicscontroller.cpp
+	"wizPhysicsController.h"
+	"wizGame.h"
+
+1284822727 d:\offroad\include\wizphysicscontroller.h
+	"wizVector3.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialManager.h"
+	<vector>
+	<string>
+	<map>
+
+1284151896 source:d:\offroad\src\wizphysicshingejoint.cpp
+	"wizPhysicsHingeJoint.h"
+
+1284151869 d:\offroad\include\wizphysicshingejoint.h
+	"wizPhysicsJoint.h"
+
+1284125854 source:d:\offroad\src\wizphysicsjoint.cpp
+	"wizPhysicsJoint.h"
+
+1284150694 source:d:\offroad\src\wizphysicssliderjoint.cpp
+	"wizPhysicsSliderJoint.h"
+
+1284150604 d:\offroad\include\wizphysicssliderjoint.h
+	"wizPhysicsSpringJoint.h"
+
+1284126011 d:\offroad\include\wizphysicsspringjoint.h
+	"wizPhysicsJoint.h"
+
+1284126041 source:d:\offroad\src\wizphysicsspringjoint.cpp
+	"wizPhysicsSpringJoint.h"
+
+1280748226 source:d:\offroad\src\wizplane.cpp
+	"wizPlane.h"
+
+1280349626 source:d:\offroad\src\wizpointlight.cpp
+	"wizPointLight.h"
+
+1280218292 d:\offroad\include\wizpointlight.h
+	"wizLight.h"
+
+1284620119 source:d:\offroad\src\wizprimitives.cpp
+	"wizPrimitives.h"
+
+1283339564 source:d:\offroad\src\wizprogress.cpp
+	"wizProgress.h"
+
+1284621824 source:d:\offroad\src\wizprogressbar.cpp
+	"wizProgressBar.h"
+
+1283240043 d:\offroad\include\wizprogressbar.h
+	"wizVector2.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+
+1284038602 source:d:\offroad\src\wizprojectedshadowrenderer.cpp
+	"wizProjectedShadowRenderer.h"
+
+1284038180 d:\offroad\include\wizprojectedshadowrenderer.h
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizVector3.h"
+	"wizCamera3D.h"
+	<vector>
+
+1280991667 source:d:\offroad\src\wizray.cpp
+	"wizRay.h"
+
+1283338563 source:d:\offroad\src\wizrecording.cpp
+	"wizRecording.h"
+
+1284400770 source:d:\offroad\src\wizscalablehud.cpp
+	"wizScalableHUD.h"
+
+1284913347 source:d:\offroad\src\wizscene.cpp
+	"wizScene.h"
+
+1283338587 d:\offroad\include\wizscene.h
+	"wizMesh.h"
+	"wizMeshEntity.h"
+	"wizMeshManager.h"
+	"wizMaterialManager.h"
+	"wizUtility.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<string>
+	<vector>
+	<fstream>
+
+1280649391 source:d:\offroad\src\wizscenemanager.cpp
+	"wizSceneManager.h"
+
+1280208082 d:\offroad\include\wizscenemanager.h
+	"wizGameEntity.h"
+	"wizCamera.h"
+	<vector>
+
+1280646195 source:d:\offroad\src\wizscenemanagerbvh.cpp
+	"wizSceneManagerBVH.h"
+
+1280682234 d:\offroad\include\wizscenemanagerbvh.h
+	"wizSceneManager.h"
+	"wizSceneManagerNode.h"
+
+1282207409 d:\offroad\include\wizscenemanagernode.h
+	"wizSceneManager.h"
+	"wizBoundingBox.h"
+	"wizCamera3D.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	<vector>
+
+1280208310 source:d:\offroad\src\wizscenemanagerlayered.cpp
+	"wizSceneManagerLayered.h"
+
+1280208386 d:\offroad\include\wizscenemanagerlayered.h
+	"wizSceneManager.h"
+	"wizGameEntity.h"
+	"wizSpriteEntity.h"
+	<vector>
+
+1282113460 source:d:\offroad\src\wizscenemanagernode.cpp
+	"wizSceneManagerNode.h"
+
+1282460217 source:d:\offroad\src\wizscenemanageroctree.cpp
+	"wizSceneManagerOctree.h"
+	<fstream>
+
+1280682234 d:\offroad\include\wizscenemanageroctree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1282460234 source:d:\offroad\src\wizscenemanagerquadtree.cpp
+	"wizSceneManagerQuadTree.h"
+
+1280831727 d:\offroad\include\wizscenemanagerquadtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1283497269 source:d:\offroad\src\wizsoundcontroller.cpp
+	"wizSoundController.h"
+
+1283497293 d:\offroad\include\wizsoundcontroller.h
+
+1283498690 source:d:\offroad\src\wizsoundcontroller2d.cpp
+	"wizSoundController2D.h"
+
+1283498673 d:\offroad\include\wizsoundcontroller2d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector2.h"
+	<string>
+	<map>
+
+1283498445 d:\offroad\include\wizsoundmanager.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<map>
+	<string>
+	<vector>
+
+1283498413 source:d:\offroad\src\wizsoundcontroller3d.cpp
+	"wizSoundController3D.h"
+
+1283498346 d:\offroad\include\wizsoundcontroller3d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector3.h"
+	<string>
+	<map>
+
+1284442761 source:d:\offroad\src\wizsoundmanager.cpp
+	"wizSoundManager.h"
+
+1283327494 source:d:\offroad\src\wizspotlight.cpp
+	"wizSpotLight.h"
+
+1280218948 d:\offroad\include\wizspotlight.h
+	"wizLight.h"
+
+1282713878 source:d:\offroad\src\wizsprite.cpp
+	"wizSprite.h"
+
+1280143652 source:d:\offroad\src\wizspriteanimation.cpp
+	"wizSpriteAnimation.h"
+
+1284624232 source:d:\offroad\src\wizspriteentity.cpp
+	"wizSpriteEntity.h"
+
+1282715125 source:d:\offroad\src\wizspriteframe.cpp
+	"wizSpriteFrame.h"
+
+1284624190 source:d:\offroad\src\wizspriterenderer.cpp
+	"wizSpriteRenderer.h"
+
+1284022144 source:d:\offroad\src\wizspritesheet.cpp
+	"wizSpritesheet.h"
+
+1279863838 source:d:\offroad\src\wizspritesheetmanager.cpp
+	"wizSpritesheetManager.h"
+
+1279781886 source:d:\offroad\src\wizstate.cpp
+	"wizState.h"
+
+1283360923 source:d:\offroad\src\wizstategroup.cpp
+	"wizStateGroup.h"
+
+1284529475 source:d:\offroad\src\wizstatemanager.cpp
+	"wizStateManager.h"
+
+1284911474 source:d:\offroad\src\wiztexturemanager.cpp
+	"wizTextureManager.h"
+
+1285159979 source:d:\offroad\src\wiztriangle.cpp
+	"wizTriangle.h"
+
+1283490344 source:d:\offroad\src\wizuibutton.cpp
+	"wizUIButton.h"
+
+1283490300 d:\offroad\include\wizuibutton.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282368785 d:\offroad\include\wizuicomponent.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizSpriteSheetManager.h"
+	"wizSpriteRenderer.h"
+	"wizUITouchEvent.h"
+	"wizUIButtonEvent.h"
+	<string>
+	<vector>
+
+1282307557 d:\offroad\include\wizuitouchevent.h
+	"wizUIEvent.h"
+	"wizVector2.h"
+
+1282298349 d:\offroad\include\wizuievent.h
+
+1282312981 d:\offroad\include\wizuibuttonevent.h
+
+1282312980 source:d:\offroad\src\wizuibuttonevent.cpp
+	"wizUIButtonEvent.h"
+
+1283490382 source:d:\offroad\src\wizuicheckbox.cpp
+	"wizUICheckBox.h"
+
+1283490365 d:\offroad\include\wizuicheckbox.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282370411 source:d:\offroad\src\wizuicomponent.cpp
+	"wizUIComponent.h"
+
+1282298353 source:d:\offroad\src\wizuievent.cpp
+	"wizUIEvent.h"
+
+1282370400 source:d:\offroad\src\wizuipanel.cpp
+	"wizUIPanel.h"
+
+1282368938 d:\offroad\include\wizuipanel.h
+	"wizUIComponent.h"
+	<string>
+
+1282377118 source:d:\offroad\src\wizuislider.cpp
+	"wizUISlider.h"
+
+1282378516 d:\offroad\include\wizuislider.h
+	"wizUIComponent.h"
+
+1282310802 source:d:\offroad\src\wizuitouchdragevent.cpp
+	"wizUITouchDragEvent.h"
+
+1282310802 d:\offroad\include\wizuitouchdragevent.h
+
+1282307602 source:d:\offroad\src\wizuitouchevent.cpp
+	"wizUITouchEvent.h"
+
+1282496116 source:d:\offroad\src\wizutility.cpp
+	"wizUtility.h"
+
+1283340629 source:d:\offroad\src\wizvector2.cpp
+	"wizVector2.h"
+
+1281452278 source:d:\offroad\src\wizvector3.cpp
+	"wizVector3.h"
+
+1285367606 source:d:\offroad\main.cpp
+	"wizGame.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizTextureManager.h"
+	"wizMeshEntity.h"
+	"wizMesh.h"
+	"wizMeshManager.h"
+	"wizMeshRenderer.h"
+	"wizCamera3D.h"
+	"wizCamera2D.h"
+	"wizScene.h"
+	"wizSceneManagerQuadtree.h"
+	"wizPhysicsController.h"
+	"wizBlob.h"
+	"wizBlobShadowRenderer.h"
+	"wizListUtility.h"
+	"wizPrimitives.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizScalableHUD.h"
+	"wizFadeToEffect.h"
+	"wizFadeChain.h"
+	"wizProgressBar.h"
+	"wizFadeWipeEffect.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	"wizSoundManager.h"
+	"wizSoundController3D.h"
+	"wizFolder.h"
+	"wizProjectedShadowRenderer.h"
+	"wizMenuRadial.h"
+	"wizMenuItemText.h"
+	"wizRenderer.h"
+	"wizMenuSlide.h"
+	"wizMenuItemIcon.h"
+	<time.h>
+	<map>
+	<string>
+	<unistd.h>
+
+1284022235 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizblob.cpp
+	"wizBlob.h"
+
+1284022227 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizblob.h
+	"wizVector3.h"
+	"wizTextureManager.h"
+	<string>
+
+1281451955 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizvector3.h
+	<math.h>
+	<cstdlib>
+
+1283321777 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wiztexturemanager.h
+	"SDL.h"
+	"SDL_Image.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<map>
+	<fstream>
+
+1285158459 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizblobshadowrenderer.cpp
+	"wizBlobShadowRenderer.h"
+
+1285158520 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizblobshadowrenderer.h
+	"wizBlob.h"
+	"wizVector3.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizTriangle.h"
+	"wizTextureManager.h"
+	"wizMaterial.h"
+	"wizMaterialManager.h"
+	<vector>
+
+1280144274 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizgameentity.h
+	"wizUtility.h"
+	<string>
+
+1282496140 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizutility.h
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1285365861 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmeshentity.h
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+	"wizGame.h"
+	"wizRay.h"
+	"wizMeshFrame.h"
+	"wizMeshManager.h"
+	"wizIntersectionPoint.h"
+	"wizTriangle.h"
+	"wizMatrix.h"
+	"wizPhysicsBody.h"
+	"wizPhysicsJoint.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1283580046 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizboundingbox.h
+	"wizBoundingVolume.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<limits>
+
+1281079002 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizboundingvolume.h
+	"wizVector3.h"
+	"wizIntersectionPoint.h"
+	"wizRay.h"
+
+1280992954 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizintersectionpoint.h
+	"wizVector3.h"
+	"wizRay.h"
+	<cstdlib>
+
+1280991652 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizray.h
+	"wizVector3.h"
+	<cstdlib>
+
+1287125687 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizgame.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizRecording.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1288088830 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizinputmanager.h
+	"DGE_Input.h"
+	"wizVector2.h"
+	"wizGame.h"
+	<vector>
+
+1283340631 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizvector2.h
+	<math.h>
+
+1284529024 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizstatemanager.h
+	"wizStateGroup.h"
+	<map>
+	<string>
+
+1284528647 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizstategroup.h
+	"wizState.h"
+	<map>
+	<string>
+
+1283360854 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizstate.h
+
+1283338345 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizrecording.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	"wizInputManager.h"
+	"wizStateManager.h"
+	"wizUtility.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<fstream>
+	<vector>
+
+1283339046 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizprogress.h
+	<string>
+
+1283339069 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmeshframe.h
+	"wizUtility.h"
+	"wizGameEntity.h"
+	"wizBoundingBox.h"
+	"wizProgress.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<string>
+	<fstream>
+
+1280341234 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmeshmanager.h
+	"wizMesh.h"
+	<map>
+
+1283945254 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmesh.h
+	"wizUtility.h"
+	"wizMeshAnimation.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<map>
+	<string>
+	<vector>
+	<fstream>
+
+1283339109 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmeshanimation.h
+	"wizMeshFrame.h"
+	"wizProgress.h"
+	<vector>
+	<fstream>
+
+1285158405 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wiztriangle.h
+	"wizIntersectionPoint.h"
+	"wizVector3.h"
+	"wizRay.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1281706127 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmatrix.h
+	"wizVector3.h"
+
+1284371570 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicsbody.h
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	"wizMatrix.h"
+	"wizUtility.h"
+	<string>
+
+1284125003 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicsjoint.h
+	"wizVector3.h"
+	"wizPhysicsBody.h"
+
+1283838358 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmaterial.h
+	"wizMaterialStage.h"
+	"wizColour.h"
+	"wizUtility.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<fstream>
+
+1281906743 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmaterialstage.h
+	"wizUtility.h"
+	"wizTextureManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<vector>
+	<string>
+	<fstream>
+
+1282548831 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizcolour.h
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+
+1281944490 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmaterialmanager.h
+	"wizMaterial.h"
+
+1283580118 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizboundingbox.cpp
+	"wizBoundingBox.h"
+
+1280221836 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizboundingvolume.cpp
+	"wizBoundingVolume.h"
+
+1282683183 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizcamera.cpp
+	"wizCamera.h"
+
+1282683183 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizcamera.h
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1281036818 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizcamera2d.cpp
+	"wizCamera2D.h"
+
+1280382726 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizcamera2d.h
+	"wizCamera.h"
+	"wizVector2.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1286264920 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizcamera3d.cpp
+	"wizCamera3D.h"
+	<fstream>
+
+1286264929 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizcamera3d.h
+	"wizCamera.h"
+	"wizVector3.h"
+	"wizFrustum.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<math.h>
+
+1280992769 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfrustum.h
+	"wizPlane.h"
+	"wizVector3.h"
+	"wizBoundingBox.h"
+	<cstdlib>
+
+1280122442 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizplane.h
+	"wizVector3.h"
+
+1279869714 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizcanvas.cpp
+	"wizCanvas.h"
+
+1279869704 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizcanvas.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	"DGE_Render.h"
+	"DGE_SurfaceManager.h"
+	<map>
+	<string>
+
+1282548780 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizcolour.cpp
+	"wizColour.h"
+
+1284016889 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizconfig.cpp
+	"wizConfig.h"
+
+1284016862 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizconfig.h
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+	<fstream>
+
+1283084358 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfadechain.cpp
+	"wizFadeChain.h"
+
+1283084360 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfadechain.h
+	"wizFadeEffect.h"
+	<vector>
+
+1282929010 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfadeeffect.h
+	"wizInputManager.h"
+
+1282941245 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfadeeffect.cpp
+	"wizFadeEffect.h"
+
+1283237902 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfadetoeffect.cpp
+	"wizFadeToEffect.h"
+
+1283237904 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfadetoeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284619608 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizprimitives.h
+	"wizVector2.h"
+	"wizColour.h"
+
+1284616862 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfadewipeeffect.cpp
+	"wizFadeWipeEffect.h"
+
+1283241494 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfadewipeeffect.h
+	"wizFadeEffect.h"
+	"wizPrimitives.h"
+	"wizColour.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1284021310 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfolder.cpp
+	"wizFolder.h"
+
+1284020940 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfolder.h
+	<unistd.h>
+	<vector>
+	<string>
+
+1284199671 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfont.cpp
+	"wizFont.h"
+	<fstream>
+	<iostream>
+
+1284199319 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfont.h
+	"wizTextureManager.h"
+	"wizVector2.h"
+	"wizUtility.h"
+	"wizGame.h"
+	<string>
+	<vector>
+	<fstream>
+
+1279882582 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfontmanager.cpp
+	"wizFontManager.h"
+
+1281944616 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizfontmanager.h
+	"wizFont.h"
+	<string>
+	<map>
+
+1280992768 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizfrustum.cpp
+	"wizFrustum.h"
+
+1288089128 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizgame.cpp
+	"wizGame.h"
+
+1280349216 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizgameentity.cpp
+	"wizGameEntity.h"
+
+1282220452 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizgesturemanager.cpp
+	"wizGestureManager.h"
+
+1279870822 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizgesturemanager.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizGestureObject.h"
+	<vector>
+	<map>
+	<math.h>
+	<string>
+
+1280054210 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizgestureobject.h
+	"wizUtility.h"
+	<string>
+
+1280174014 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizgestureobject.cpp
+	"wizGestureObject.h"
+
+1288089109 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizinputmanager.cpp
+	"wizInputManager.h"
+
+1280992956 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizintersectionpoint.cpp
+	"wizIntersectionPoint.h"
+
+1283327494 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizlight.cpp
+	"wizLight.h"
+
+1280218464 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizlight.h
+	"wizColour.h"
+	"wizVector3.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+
+1282042588 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizlightmanager.cpp
+	"wizLightManager.h"
+
+1282042580 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizlightmanager.h
+	"wizLight.h"
+	"wizUtility.h"
+	<vector>
+	<string>
+
+1282885321 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizlistutility.cpp
+	"wizListUtility.h"
+
+1282885200 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizlistutility.h
+	"wizGameEntity.h"
+	<string>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1284891189 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmaterial.cpp
+	"wizMaterial.h"
+
+1280055166 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmaterialmanager.cpp
+	"wizMaterialManager.h"
+
+1284891186 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmaterialstage.cpp
+	"wizMaterialStage.h"
+
+1281706072 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmatrix.cpp
+	"wizMatrix.h"
+
+1284533633 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenu.cpp
+	"wizMenu.h"
+
+1284482088 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenu.h
+	"wizRenderer.h"
+	"wizMenuItem.h"
+	<vector>
+
+1280231976 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizrenderer.h
+
+1283360028 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuitem.h
+	"wizRenderer.h"
+	<string>
+
+1283346179 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuitem.cpp
+	"wizMenuItem.h"
+
+1284622770 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuitemicon.cpp
+	"wizMenuItemIcon.h"
+
+1284448177 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuitemicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1283775084 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscalablehud.h
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+	"wizUtility.h"
+	<map>
+	<vector>
+	<string>
+
+1284622220 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspriteentity.h
+	"wizGameEntity.h"
+	"wizVector2.h"
+	"wizGame.h"
+	"wizSpriteFrame.h"
+	"wizSpriteSheetManager.h"
+	"SDL.h"
+	"DGE_Frame.h"
+	"DGE_Display.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282715127 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspriteframe.h
+	"wizUtility.h"
+	"wizVector2.h"
+	<cstdlib>
+	<string>
+	<fstream>
+
+1282683083 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspritesheetmanager.h
+	"wizSpriteSheet.h"
+	<map>
+
+1284022195 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspritesheet.h
+	"wizSprite.h"
+	"wizTextureManager.h"
+	<map>
+
+1282682120 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizsprite.h
+	"wizUtility.h"
+	"wizSpriteAnimation.h"
+	<map>
+	<string>
+	<fstream>
+
+1280143652 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspriteanimation.h
+	"wizUtility.h"
+	"wizSpriteFrame.h"
+	<vector>
+	<string>
+	<fstream>
+
+1284552310 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspriterenderer.h
+	"wizRenderer.h"
+	"wizTextureManager.h"
+	"wizSpriteEntity.h"
+	"wizParticle.h"
+	<vector>
+	<map>
+
+1280245978 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticle.h
+	"wizVector3.h"
+	"wizSpriteEntity.h"
+
+1284558982 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuitemirregularicon.cpp
+	"wizMenuItemIrregularIcon.h"
+
+1284558320 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuitemirregularicon.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284622764 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuitemtext.cpp
+	"wizMenuItemText.h"
+
+1284401127 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuitemtext.h
+	"wizFont.h"
+	"wizVector2.h"
+	"wizMenuItem.h"
+	"wizScalableHUD.h"
+	"wizFont.h"
+	"wizFontManager.h"
+	"wizSpritesheetManager.h"
+	"wizSpriteEntity.h"
+	<string>
+
+1284484390 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuradial.cpp
+	"wizMenuRadial.h"
+
+1284441938 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuradial.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1284484390 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenusimple.cpp
+	"wizMenuSimple.h"
+
+1283360029 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenusimple.h
+	"wizMenu.h"
+	"wizRenderer.h"
+
+1284484389 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmenuslide.cpp
+	"wizMenuSlide.h"
+
+1284482194 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmenuslide.h
+	"wizMenu.h"
+	"wizMenuItem.h"
+	"wizRenderer.h"
+	"wizSpriteRenderer.h"
+	"wizVector2.h"
+	<math.h>
+	<vector>
+
+1283945431 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmesh.cpp
+	"wizMesh.h"
+
+1283063567 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmeshanimation.cpp
+	"wizMeshAnimation.h"
+
+1285365864 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmeshentity.cpp
+	"wizMeshEntity.h"
+
+1283339164 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmeshframe.cpp
+	"wizMeshFrame.h"
+
+1279972868 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmeshmanager.cpp
+	"wizMeshManager.h"
+
+1285158559 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizmeshrenderer.cpp
+	"wizMeshRenderer.h"
+
+1284552187 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizmeshrenderer.h
+	"wizRenderer.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialStage.h"
+	"wizMaterialManager.h"
+	"wizTextureManager.h"
+	"wizLightManager.h"
+	"wizCamera3D.h"
+	"wizRay.h"
+	"wizBoundingBox.h"
+	<vector>
+	<algorithm>
+
+1280230838 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticle.cpp
+	"wizParticle.h"
+
+1282683121 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticle2d.cpp
+	"wizParticle2D.h"
+
+1280246098 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticle2d.h
+	"wizVector2.h"
+	"wizParticle.h"
+
+1281191217 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticle3d.cpp
+	"wizParticle3D.h"
+
+1280349726 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticle3d.h
+	"wizVector3.h"
+	"wizParticle.h"
+	"wizCamera3D.h"
+	"wizUtility.h"
+
+1280229434 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticleemitter.cpp
+	"wizParticleEmitter.h"
+
+1280229428 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticleemitter.h
+	"wizParticle.h"
+
+1280349726 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticlesystem.cpp
+	"wizParticleSystem.h"
+
+1280245098 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticlesystem.h
+	"wizParticleEmitter.h"
+	"wizSpriteRenderer.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1280349726 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticlesystem2d.cpp
+	"wizParticleSystem2D.h"
+
+1280246086 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticlesystem2d.h
+	"wizParticleSystem.h"
+	"wizParticle2D.h"
+
+1280578249 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizparticlesystem3d.cpp
+	"wizParticleSystem3D.h"
+
+1280399058 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizparticlesystem3d.h
+	"wizParticleSystem.h"
+	"wizParticle3D.h"
+	<vector>
+
+1284991107 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicsbody.cpp
+	"wizPhysicsBody.h"
+
+1284823715 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicscontroller.cpp
+	"wizPhysicsController.h"
+	"wizGame.h"
+
+1284822727 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicscontroller.h
+	"wizVector3.h"
+	"wizMeshEntity.h"
+	"wizMaterial.h"
+	"wizMaterialManager.h"
+	<vector>
+	<string>
+	<map>
+
+1284151896 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicshingejoint.cpp
+	"wizPhysicsHingeJoint.h"
+
+1284151869 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicshingejoint.h
+	"wizPhysicsJoint.h"
+
+1284125854 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicsjoint.cpp
+	"wizPhysicsJoint.h"
+
+1284150694 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicssliderjoint.cpp
+	"wizPhysicsSliderJoint.h"
+
+1284150604 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicssliderjoint.h
+	"wizPhysicsSpringJoint.h"
+
+1284126011 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizphysicsspringjoint.h
+	"wizPhysicsJoint.h"
+
+1284126041 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizphysicsspringjoint.cpp
+	"wizPhysicsSpringJoint.h"
+
+1280748226 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizplane.cpp
+	"wizPlane.h"
+
+1280349626 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizpointlight.cpp
+	"wizPointLight.h"
+
+1280218292 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizpointlight.h
+	"wizLight.h"
+
+1284620119 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizprimitives.cpp
+	"wizPrimitives.h"
+
+1283339564 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizprogress.cpp
+	"wizProgress.h"
+
+1284621824 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizprogressbar.cpp
+	"wizProgressBar.h"
+
+1283240043 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizprogressbar.h
+	"wizVector2.h"
+	"wizSpriteEntity.h"
+	"wizSpriteRenderer.h"
+
+1284038602 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizprojectedshadowrenderer.cpp
+	"wizProjectedShadowRenderer.h"
+
+1284038180 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizprojectedshadowrenderer.h
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	"wizVector3.h"
+	"wizCamera3D.h"
+	<vector>
+
+1280991667 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizray.cpp
+	"wizRay.h"
+
+1283338563 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizrecording.cpp
+	"wizRecording.h"
+
+1284400770 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscalablehud.cpp
+	"wizScalableHUD.h"
+
+1284913347 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscene.cpp
+	"wizScene.h"
+
+1283338587 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscene.h
+	"wizMesh.h"
+	"wizMeshEntity.h"
+	"wizMeshManager.h"
+	"wizMaterialManager.h"
+	"wizUtility.h"
+	"wizGame.h"
+	"wizProgress.h"
+	<string>
+	<vector>
+	<fstream>
+
+1280649391 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanager.cpp
+	"wizSceneManager.h"
+
+1280208082 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanager.h
+	"wizGameEntity.h"
+	"wizCamera.h"
+	<vector>
+
+1280646195 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanagerbvh.cpp
+	"wizSceneManagerBVH.h"
+
+1280682234 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanagerbvh.h
+	"wizSceneManager.h"
+	"wizSceneManagerNode.h"
+
+1282207409 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanagernode.h
+	"wizSceneManager.h"
+	"wizBoundingBox.h"
+	"wizCamera3D.h"
+	"wizGameEntity.h"
+	"wizMeshEntity.h"
+	<vector>
+
+1280208310 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanagerlayered.cpp
+	"wizSceneManagerLayered.h"
+
+1280208386 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanagerlayered.h
+	"wizSceneManager.h"
+	"wizGameEntity.h"
+	"wizSpriteEntity.h"
+	<vector>
+
+1282113460 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanagernode.cpp
+	"wizSceneManagerNode.h"
+
+1282460217 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanageroctree.cpp
+	"wizSceneManagerOctree.h"
+	<fstream>
+
+1280682234 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanageroctree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1282460234 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizscenemanagerquadtree.cpp
+	"wizSceneManagerQuadTree.h"
+
+1280831727 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizscenemanagerquadtree.h
+	"wizSceneManagerBVH.h"
+	"wizSceneManagerNode.h"
+	"wizBoundingBox.h"
+	"wizVector3.h"
+
+1283497269 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizsoundcontroller.cpp
+	"wizSoundController.h"
+
+1283497293 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizsoundcontroller.h
+
+1283498690 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizsoundcontroller2d.cpp
+	"wizSoundController2D.h"
+
+1283498673 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizsoundcontroller2d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector2.h"
+	<string>
+	<map>
+
+1283498445 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizsoundmanager.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<map>
+	<string>
+	<vector>
+
+1283498413 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizsoundcontroller3d.cpp
+	"wizSoundController3D.h"
+
+1283498346 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizsoundcontroller3d.h
+	"wizSoundController.h"
+	"wizSoundManager.h"
+	"wizVector3.h"
+	<string>
+	<map>
+
+1284442761 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizsoundmanager.cpp
+	"wizSoundManager.h"
+
+1283327494 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspotlight.cpp
+	"wizSpotLight.h"
+
+1280218948 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizspotlight.h
+	"wizLight.h"
+
+1282713878 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizsprite.cpp
+	"wizSprite.h"
+
+1280143652 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspriteanimation.cpp
+	"wizSpriteAnimation.h"
+
+1284624232 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspriteentity.cpp
+	"wizSpriteEntity.h"
+
+1282715125 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspriteframe.cpp
+	"wizSpriteFrame.h"
+
+1284624190 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspriterenderer.cpp
+	"wizSpriteRenderer.h"
+
+1284022144 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspritesheet.cpp
+	"wizSpritesheet.h"
+
+1279863838 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizspritesheetmanager.cpp
+	"wizSpritesheetManager.h"
+
+1279781886 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizstate.cpp
+	"wizState.h"
+
+1283360923 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizstategroup.cpp
+	"wizStateGroup.h"
+
+1284529475 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizstatemanager.cpp
+	"wizStateManager.h"
+
+1284911474 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wiztexturemanager.cpp
+	"wizTextureManager.h"
+
+1285159979 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wiztriangle.cpp
+	"wizTriangle.h"
+
+1283490344 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuibutton.cpp
+	"wizUIButton.h"
+
+1283490300 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuibutton.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282368785 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuicomponent.h
+	"wizVector2.h"
+	"wizInputManager.h"
+	"wizSpriteSheetManager.h"
+	"wizSpriteRenderer.h"
+	"wizUITouchEvent.h"
+	"wizUIButtonEvent.h"
+	<string>
+	<vector>
+
+1282307557 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuitouchevent.h
+	"wizUIEvent.h"
+	"wizVector2.h"
+
+1282298349 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuievent.h
+
+1282312981 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuibuttonevent.h
+
+1282312980 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuibuttonevent.cpp
+	"wizUIButtonEvent.h"
+
+1283490382 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuicheckbox.cpp
+	"wizUICheckBox.h"
+
+1283490365 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuicheckbox.h
+	"wizUIComponent.h"
+	"wizFontManager.h"
+	"wizFont.h"
+	<string>
+
+1282370411 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuicomponent.cpp
+	"wizUIComponent.h"
+
+1282298353 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuievent.cpp
+	"wizUIEvent.h"
+
+1282370400 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuipanel.cpp
+	"wizUIPanel.h"
+
+1282368938 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuipanel.h
+	"wizUIComponent.h"
+	<string>
+
+1282377118 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuislider.cpp
+	"wizUISlider.h"
+
+1282378516 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuislider.h
+	"wizUIComponent.h"
+
+1282310802 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuitouchdragevent.cpp
+	"wizUITouchDragEvent.h"
+
+1282310802 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizuitouchdragevent.h
+
+1282307602 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizuitouchevent.cpp
+	"wizUITouchEvent.h"
+
+1282496116 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizutility.cpp
+	"wizUtility.h"
+
+1283340629 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizvector2.cpp
+	"wizVector2.h"
+
+1281452278 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizvector3.cpp
+	"wizVector3.h"
+
+1286257397 source:c:\documents and settings\kurt.kruger\desktop\wizengine\main.cpp
+	"wizGame.h"
+	"wizInputManager.h"
+	"wizFontManager.h"
+	"wizTextureManager.h"
+	"wizMeshManager.h"
+	"wizSoundManager.h"
+	"wizSpriteSheetManager.h"
+	"wizMaterialManager.h"
+	<time.h>
+	<unistd.h>
+
+1288181773 source:c:\documents and settings\kurt.kruger\desktop\wizengine\src\wizbattery.cpp
+	"wizBattery.h"
+
+1288181861 c:\documents and settings\kurt.kruger\desktop\wizengine\include\wizbattery.h
+	"SDL.h"
+	"SDL_wiz_dev.h"
+
+1260435348 c:\program files\gph_sdk\dge\include\sdl\sdl_wiz_dev.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
